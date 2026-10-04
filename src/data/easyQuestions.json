@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "difficulty": "easy",
+    "question": "Đại hội mở đầu công cuộc Đổi mới là",
+    "answers": [
+      "Đại hội IV",
+      "Đại hội V",
+      "Đại hội VI",
+      "Đại hội VII"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 2,
+    "difficulty": "easy",
+    "question": "Đại hội VI diễn ra năm nào?",
+    "answers": [
+      "1981",
+      "1986",
+      "1991",
+      "1996"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 3,
+    "difficulty": "easy",
+    "question": "Tổng Bí thư được bầu tại Đại hội VI là",
+    "answers": [
+      "Lê Duẩn",
+      "Đỗ Mười",
+      "Nguyễn Văn Linh",
+      "Nông Đức Mạnh"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 4,
+    "difficulty": "easy",
+    "question": "Một nguyên nhân trực tiếp dẫn đến Đổi mới là",
+    "answers": [
+      "Kinh tế tăng trưởng quá cao",
+      "Khủng hoảng kinh tế - xã hội",
+      "Chiến tranh thế giới",
+      "Gia nhập ASEAN"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 5,
+    "difficulty": "easy",
+    "question": "Bài học được nhấn mạnh tại Đại hội VI là",
+    "answers": [
+      "Lấy dân làm gốc",
+      "Đóng cửa nền kinh tế",
+      "Bỏ vai trò Nhà nước",
+      "Chỉ phát triển công nghiệp"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 6,
+    "difficulty": "easy",
+    "question": "Đổi mới không thay đổi",
+    "answers": [
+      "Mục tiêu XHCN",
+      "Độc lập",
+      "Vai trò lãnh đạo của Đảng",
+      "Tất cả các ý trên"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 7,
+    "difficulty": "easy",
+    "question": "Khoán 10 ban hành năm",
+    "answers": [
+      "1986",
+      "1987",
+      "1988",
+      "1990"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 8,
+    "difficulty": "easy",
+    "question": "Khoán 10 chủ yếu áp dụng trong",
+    "answers": [
+      "Công nghiệp",
+      "Nông nghiệp",
+      "Thương mại",
+      "Giáo dục"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 9,
+    "difficulty": "easy",
+    "question": "Đại hội VII diễn ra năm",
+    "answers": [
+      "1989",
+      "1990",
+      "1991",
+      "1992"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 10,
+    "difficulty": "easy",
+    "question": "Cương lĩnh 1991 được thông qua tại",
+    "answers": [
+      "Đại hội VI",
+      "Đại hội VII",
+      "Đại hội VIII",
+      "Đại hội IX"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 11,
+    "difficulty": "easy",
+    "question": "Đảng xác định nền tảng tư tưởng là",
+    "answers": [
+      "Chủ nghĩa Mác-Lênin",
+      "Tư tưởng Hồ Chí Minh",
+      "Cả A và B",
+      "Không ý nào"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 12,
+    "difficulty": "easy",
+    "question": "Một đặc trưng của Nhà nước pháp quyền XHCN là",
+    "answers": [
+      "Quản lý bằng pháp luật",
+      "Không cần pháp luật",
+      "Chỉ quản lý bằng mệnh lệnh",
+      "Không có Hiến pháp"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 13,
+    "difficulty": "easy",
+    "question": "Đổi mới kinh tế gắn với",
+    "answers": [
+      "Đổi mới chính trị",
+      "Bỏ quản lý Nhà nước",
+      "Tư nhân hóa toàn bộ",
+      "Đóng cửa hội nhập"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 14,
+    "difficulty": "easy",
+    "question": "Chính sách đối ngoại là",
+    "answers": [
+      "Thêm bạn bớt thù",
+      "Đóng cửa",
+      "Chỉ hợp tác một nước",
+      "Không hội nhập"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 15,
+    "difficulty": "easy",
+    "question": "Việt Nam gia nhập ASEAN năm",
+    "answers": [
+      "1993",
+      "1994",
+      "1995",
+      "1996"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 16,
+    "difficulty": "easy",
+    "question": "Mục tiêu xây dựng Nhà nước pháp quyền là",
+    "answers": [
+      "Phục vụ nhân dân",
+      "Đặc quyền cho một nhóm",
+      "Giảm pháp luật",
+      "Xóa Hiến pháp"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 17,
+    "difficulty": "easy",
+    "question": "Đổi mới cơ chế quản lý chuyển sang",
+    "answers": [
+      "Bao cấp",
+      "Hạch toán kinh doanh",
+      "Tem phiếu",
+      "Đổi hàng"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 18,
+    "difficulty": "easy",
+    "question": "Một thành tựu đầu Đổi mới là",
+    "answers": [
+      "Lạm phát giảm",
+      "Lạm phát tăng",
+      "Ngừng sản xuất",
+      "Đóng cửa kinh tế"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 19,
+    "difficulty": "easy",
+    "question": "Đảng lãnh đạo xây dựng Nhà nước pháp quyền nhằm",
+    "answers": [
+      "Phát triển đất nước",
+      "Xóa pháp luật",
+      "Thu hẹp quyền dân",
+      "Đóng cửa hội nhập"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 20,
+    "difficulty": "easy",
+    "question": "Vai trò của pháp luật trong Nhà nước pháp quyền là",
+    "answers": [
+      "Công cụ quản lý xã hội",
+      "Không cần thiết",
+      "Chỉ áp dụng cho Nhà nước",
+      "Chỉ áp dụng cho doanh nghiệp"
+    ],
+    "correctAnswer": 0
+  }
+]

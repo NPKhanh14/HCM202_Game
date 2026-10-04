@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "difficulty": "medium",
+    "question": "Theo Đại hội VI, 'nguyên nhân của mọi nguyên nhân' dẫn đến khuyết điểm của Đảng là gì?",
+    "answers": [
+      "Khó khăn kinh tế thế giới.",
+      "Khuyết điểm trong tư tưởng, tổ chức và công tác cán bộ.",
+      "Bao vây cấm vận.",
+      "Thiếu nguồn viện trợ."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 2,
+    "difficulty": "medium",
+    "question": "Trong bốn bài học của Đại hội VI, nội dung nào được đặt lên trước tiên?",
+    "answers": [
+      "Kết hợp sức mạnh dân tộc với sức mạnh thời đại.",
+      "Lấy dân làm gốc.",
+      "Xây dựng Đảng ngang tầm.",
+      "Đổi mới kinh tế."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 3,
+    "difficulty": "medium",
+    "question": "Đổi mới cơ chế quản lý kinh tế theo Đại hội VI được thể hiện bằng nội dung nào?",
+    "answers": [
+      "Giữ nguyên cơ chế bao cấp.",
+      "Kết hợp kế hoạch với thị trường, xóa bỏ bao cấp.",
+      "Xóa bỏ kinh tế nhà nước.",
+      "Chỉ phát triển kinh tế tư nhân."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 4,
+    "difficulty": "medium",
+    "question": "Khoán 10 (1988) trao quyền chủ yếu cho ai?",
+    "answers": [
+      "Doanh nghiệp nhà nước.",
+      "Hộ nông dân.",
+      "Hợp tác xã.",
+      "Chính quyền địa phương."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 5,
+    "difficulty": "medium",
+    "question": "Việc xóa bỏ chế độ tem phiếu cuối năm 1988 gắn với chủ trương nào?",
+    "answers": [
+      "Cơ chế nhiều giá.",
+      "Cơ chế một giá và hạch toán kinh doanh.",
+      "Tăng bao cấp.",
+      "Đóng cửa thị trường."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 6,
+    "difficulty": "medium",
+    "question": "Một thành tựu nổi bật sau những chính sách đổi mới giai đoạn đầu là?",
+    "answers": [
+      "Lạm phát tăng lên.",
+      "Xuất khẩu lương thực và giảm lạm phát.",
+      "Bãi bỏ kinh tế nhà nước.",
+      "Gia nhập WTO."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 7,
+    "difficulty": "medium",
+    "question": "Bối cảnh quốc tế tác động mạnh đến Đại hội VII là?",
+    "answers": [
+      "Khủng hoảng các nước XHCN Đông Âu và Liên Xô.",
+      "Chiến tranh thế giới.",
+      "Khủng hoảng dầu mỏ.",
+      "Khủng hoảng tài chính châu Á."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 8,
+    "difficulty": "medium",
+    "question": "Đại hội VII thông qua văn kiện quan trọng nào?",
+    "answers": [
+      "Hiến pháp 1992.",
+      "Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên CNXH.",
+      "Chiến lược biển.",
+      "Nghị quyết Trung ương 6."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 9,
+    "difficulty": "medium",
+    "question": "Lần đầu tiên Đại hội VII khẳng định điều gì?",
+    "answers": [
+      "Kinh tế tư nhân là chủ đạo.",
+      "Tư tưởng Hồ Chí Minh cùng chủ nghĩa Mác-Lênin là nền tảng tư tưởng.",
+      "Gia nhập ASEAN.",
+      "Đổi mới chính trị trước."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 10,
+    "difficulty": "medium",
+    "question": "Một trong năm bài học lớn của Cương lĩnh 1991 là?",
+    "answers": [
+      "Ưu tiên công nghiệp nặng.",
+      "Nắm vững ngọn cờ độc lập dân tộc và CNXH.",
+      "Xóa bỏ kinh tế nhiều thành phần.",
+      "Tam quyền phân lập."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 11,
+    "difficulty": "medium",
+    "question": "Đặc trưng đầu tiên của xã hội XHCN trong Cương lĩnh 1991 là?",
+    "answers": [
+      "Có nền kinh tế hiện đại.",
+      "Do nhân dân lao động làm chủ.",
+      "Có lực lượng sản xuất phát triển.",
+      "Có quan hệ quốc tế rộng mở."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 12,
+    "difficulty": "medium",
+    "question": "Phương hướng đầu tiên xây dựng CNXH được nêu trong Cương lĩnh 1991 là?",
+    "answers": [
+      "Phát triển kinh tế tư nhân.",
+      "Xây dựng Nhà nước XHCN.",
+      "Gia nhập ASEAN.",
+      "Đổi mới giáo dục."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 13,
+    "difficulty": "medium",
+    "question": "Theo Cương lĩnh 1991, nền kinh tế hàng hóa nhiều thành phần vận hành theo?",
+    "answers": [
+      "Cơ chế bao cấp.",
+      "Cơ chế thị trường có sự quản lý của Nhà nước theo định hướng XHCN.",
+      "Thị trường tự do hoàn toàn.",
+      "Chỉ theo kế hoạch."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 14,
+    "difficulty": "medium",
+    "question": "Một mục tiêu của giai đoạn 1991-1995 là?",
+    "answers": [
+      "Hoàn thành công nghiệp hóa.",
+      "Đưa đất nước cơ bản ra khỏi khủng hoảng KT-XH.",
+      "Gia nhập WTO.",
+      "Tăng trưởng trên 10%."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 15,
+    "difficulty": "medium",
+    "question": "Chủ trương đối ngoại đầu những năm 1990 được thể hiện qua phương châm nào?",
+    "answers": [
+      "Đóng cửa tự lực.",
+      "Thêm bạn, bớt thù.",
+      "Chỉ hợp tác khu vực.",
+      "Ưu tiên quân sự."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 16,
+    "difficulty": "medium",
+    "question": "Việt Nam rút hết quân tình nguyện khỏi Campuchia vào thời điểm nào?",
+    "answers": [
+      "1988",
+      "1989",
+      "1991",
+      "1995"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 17,
+    "difficulty": "medium",
+    "question": "Đến năm 1995, Việt Nam trở thành thành viên đầy đủ của tổ chức nào?",
+    "answers": [
+      "WTO",
+      "ASEAN",
+      "APEC",
+      "AFTA"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 18,
+    "difficulty": "medium",
+    "question": "Theo tài liệu, năm 1995 Việt Nam thiết lập quan hệ ngoại giao với quốc gia nào?",
+    "answers": [
+      "Nhật Bản",
+      "Hoa Kỳ",
+      "Pháp",
+      "Nga"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 19,
+    "difficulty": "medium",
+    "question": "Một trong những kết quả kinh tế giai đoạn 1991-1995 là?",
+    "answers": [
+      "GDP bình quân khoảng 8,2%/năm.",
+      "GDP giảm liên tục.",
+      "Lạm phát tăng trên 100%.",
+      "Ngừng xuất khẩu lương thực."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 20,
+    "difficulty": "medium",
+    "question": "Điểm chung xuyên suốt giữa Đại hội VI và VII là?",
+    "answers": [
+      "Từ bỏ mục tiêu XHCN.",
+      "Tiếp tục đổi mới gắn với giữ vững định hướng XHCN.",
+      "Ưu tiên đổi mới chính trị trước.",
+      "Chỉ phát triển kinh tế nhà nước."
+    ],
+    "correctAnswer": 1
+  }
+]
