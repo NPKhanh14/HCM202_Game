@@ -1,242 +1,962 @@
 [
-  {
-    "id": 1,
-    "difficulty": "easy",
-    "question": "Đại hội mở đầu công cuộc Đổi mới là",
-    "answers": [
-      "Đại hội IV",
-      "Đại hội V",
-      "Đại hội VI",
-      "Đại hội VII"
-    ],
-    "correctAnswer": 2
-  },
-  {
-    "id": 2,
-    "difficulty": "easy",
-    "question": "Đại hội VI diễn ra năm nào?",
-    "answers": [
-      "1981",
-      "1986",
-      "1991",
-      "1996"
-    ],
-    "correctAnswer": 1
-  },
-  {
-    "id": 3,
-    "difficulty": "easy",
-    "question": "Tổng Bí thư được bầu tại Đại hội VI là",
-    "answers": [
-      "Lê Duẩn",
-      "Đỗ Mười",
-      "Nguyễn Văn Linh",
-      "Nông Đức Mạnh"
-    ],
-    "correctAnswer": 2
-  },
-  {
-    "id": 4,
-    "difficulty": "easy",
-    "question": "Một nguyên nhân trực tiếp dẫn đến Đổi mới là",
-    "answers": [
-      "Kinh tế tăng trưởng quá cao",
-      "Khủng hoảng kinh tế - xã hội",
-      "Chiến tranh thế giới",
-      "Gia nhập ASEAN"
-    ],
-    "correctAnswer": 1
-  },
-  {
-    "id": 5,
-    "difficulty": "easy",
-    "question": "Bài học được nhấn mạnh tại Đại hội VI là",
-    "answers": [
-      "Lấy dân làm gốc",
-      "Đóng cửa nền kinh tế",
-      "Bỏ vai trò Nhà nước",
-      "Chỉ phát triển công nghiệp"
-    ],
-    "correctAnswer": 0
-  },
-  {
-    "id": 6,
-    "difficulty": "easy",
-    "question": "Đổi mới không thay đổi",
-    "answers": [
-      "Mục tiêu XHCN",
-      "Độc lập",
-      "Vai trò lãnh đạo của Đảng",
-      "Tất cả các ý trên"
-    ],
-    "correctAnswer": 3
-  },
-  {
-    "id": 7,
-    "difficulty": "easy",
-    "question": "Khoán 10 ban hành năm",
-    "answers": [
-      "1986",
-      "1987",
-      "1988",
-      "1990"
-    ],
-    "correctAnswer": 2
-  },
-  {
-    "id": 8,
-    "difficulty": "easy",
-    "question": "Khoán 10 chủ yếu áp dụng trong",
-    "answers": [
-      "Công nghiệp",
-      "Nông nghiệp",
-      "Thương mại",
-      "Giáo dục"
-    ],
-    "correctAnswer": 1
-  },
-  {
-    "id": 9,
-    "difficulty": "easy",
-    "question": "Đại hội VII diễn ra năm",
-    "answers": [
-      "1989",
-      "1990",
-      "1991",
-      "1992"
-    ],
-    "correctAnswer": 2
-  },
-  {
-    "id": 10,
-    "difficulty": "easy",
-    "question": "Cương lĩnh 1991 được thông qua tại",
-    "answers": [
-      "Đại hội VI",
-      "Đại hội VII",
-      "Đại hội VIII",
-      "Đại hội IX"
-    ],
-    "correctAnswer": 1
-  },
-  {
-    "id": 11,
-    "difficulty": "easy",
-    "question": "Đảng xác định nền tảng tư tưởng là",
-    "answers": [
-      "Chủ nghĩa Mác-Lênin",
-      "Tư tưởng Hồ Chí Minh",
-      "Cả A và B",
-      "Không ý nào"
-    ],
-    "correctAnswer": 2
-  },
-  {
-    "id": 12,
-    "difficulty": "easy",
-    "question": "Một đặc trưng của Nhà nước pháp quyền XHCN là",
-    "answers": [
-      "Quản lý bằng pháp luật",
-      "Không cần pháp luật",
-      "Chỉ quản lý bằng mệnh lệnh",
-      "Không có Hiến pháp"
-    ],
-    "correctAnswer": 0
-  },
-  {
-    "id": 13,
-    "difficulty": "easy",
-    "question": "Đổi mới kinh tế gắn với",
-    "answers": [
-      "Đổi mới chính trị",
-      "Bỏ quản lý Nhà nước",
-      "Tư nhân hóa toàn bộ",
-      "Đóng cửa hội nhập"
-    ],
-    "correctAnswer": 0
-  },
-  {
-    "id": 14,
-    "difficulty": "easy",
-    "question": "Chính sách đối ngoại là",
-    "answers": [
-      "Thêm bạn bớt thù",
-      "Đóng cửa",
-      "Chỉ hợp tác một nước",
-      "Không hội nhập"
-    ],
-    "correctAnswer": 0
-  },
-  {
-    "id": 15,
-    "difficulty": "easy",
-    "question": "Việt Nam gia nhập ASEAN năm",
-    "answers": [
-      "1993",
-      "1994",
-      "1995",
-      "1996"
-    ],
-    "correctAnswer": 2
-  },
-  {
-    "id": 16,
-    "difficulty": "easy",
-    "question": "Mục tiêu xây dựng Nhà nước pháp quyền là",
-    "answers": [
-      "Phục vụ nhân dân",
-      "Đặc quyền cho một nhóm",
-      "Giảm pháp luật",
-      "Xóa Hiến pháp"
-    ],
-    "correctAnswer": 0
-  },
-  {
-    "id": 17,
-    "difficulty": "easy",
-    "question": "Đổi mới cơ chế quản lý chuyển sang",
-    "answers": [
-      "Bao cấp",
-      "Hạch toán kinh doanh",
-      "Tem phiếu",
-      "Đổi hàng"
-    ],
-    "correctAnswer": 1
-  },
-  {
-    "id": 18,
-    "difficulty": "easy",
-    "question": "Một thành tựu đầu Đổi mới là",
-    "answers": [
-      "Lạm phát giảm",
-      "Lạm phát tăng",
-      "Ngừng sản xuất",
-      "Đóng cửa kinh tế"
-    ],
-    "correctAnswer": 0
-  },
-  {
-    "id": 19,
-    "difficulty": "easy",
-    "question": "Đảng lãnh đạo xây dựng Nhà nước pháp quyền nhằm",
-    "answers": [
-      "Phát triển đất nước",
-      "Xóa pháp luật",
-      "Thu hẹp quyền dân",
-      "Đóng cửa hội nhập"
-    ],
-    "correctAnswer": 0
-  },
-  {
-    "id": 20,
-    "difficulty": "easy",
-    "question": "Vai trò của pháp luật trong Nhà nước pháp quyền là",
-    "answers": [
-      "Công cụ quản lý xã hội",
-      "Không cần thiết",
-      "Chỉ áp dụng cho Nhà nước",
-      "Chỉ áp dụng cho doanh nghiệp"
-    ],
-    "correctAnswer": 0
-  }
+    {
+        "id":  1,
+        "difficulty":  "easy",
+        "question":  "Theo Hồ Chí Minh, đạo đức có vai trò như thế nào đối với người cách mạng?",
+        "answers":  [
+                        "Là nền tảng",
+                        "Là tài sản",
+                        "Là quyền lực",
+                        "Là phần thưởng"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "id":  2,
+        "difficulty":  "easy",
+        "question":  "Hồ Chí Minh ví đạo đức của người cách mạng giống với điều gì?",
+        "answers":  [
+                        "Ngọn lửa",
+                        "Gốc của cây",
+                        "Dòng sông",
+                        "Bầu trời"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "id":  3,
+        "difficulty":  "easy",
+        "question":  "Theo tài liệu, cây muốn phát triển thì cần có gì?",
+        "answers":  [
+                        "Hoa",
+                        "Quả",
+                        "Gốc",
+                        "Lá"
+                    ],
+        "correctAnswer":  2
+    },
+    {
+        "id":  4,
+        "difficulty":  "easy",
+        "question":  "Người cách mạng muốn hoàn thành nhiệm vụ và phục vụ nhân dân cần có gì?",
+        "answers":  [
+                        "Nhiều tài sản",
+                        "Đạo đức",
+                        "Quyền lực",
+                        "Địa vị"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "id":  5,
+        "difficulty":  "easy",
+        "question":  "Câu nói “Người cách mạng phải có đạo đức...” được Hồ Chí Minh viết trong tác phẩm nào?",
+        "answers":  [
+                        "Đường Kách mệnh",
+                        "Nhật ký trong tù",
+                        "Sửa đổi lối làm việc",
+                        "Tuyên ngôn Độc lập"
+                    ],
+        "correctAnswer":  2
+    },
+    {
+        "id":  6,
+        "difficulty":  "easy",
+        "question":  "Tác phẩm Sửa đổi lối làm việc được dẫn trong tài liệu là năm nào?",
+        "answers":  [
+                        "1930",
+                        "1945",
+                        "1947",
+                        "1954"
+                    ],
+        "correctAnswer":  2
+    },
+    {
+        "id":  7,
+        "difficulty":  "easy",
+        "question":  "Theo Hồ Chí Minh, tài giúp con người làm được gì?",
+        "answers":  [
+                        "Làm được việc",
+                        "Có nhiều tiền",
+                        "Có quyền lực",
+                        "Có địa vị"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "id":  8,
+        "difficulty":  "easy",
+        "question":  "Theo tài liệu, đạo đức có vai trò gì đối với tài năng?",
+        "answers":  [
+                        "Thay thế tài năng",
+                        "Định hướng việc sử dụng tài năng",
+                        "Làm mất tài năng",
+                        "Không liên quan đến tài năng"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "id":  9,
+        "difficulty":  "easy",
+        "question":  "Người có tài nhưng thiếu đạo đức có thể sử dụng năng lực để làm gì?",
+        "answers":  [
+                        "Phục vụ lợi ích cá nhân",
+                        "Phục vụ nhân dân",
+                        "Xây dựng tập thể",
+                        "Giúp đỡ cộng đồng"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "id":  10,
+        "difficulty":  "easy",
+        "question":  "Theo tư tưởng Hồ Chí Minh, người có đạo đức sẽ biết đặt lợi ích nào lên trên lợi ích cá nhân?",
+        "answers":  [
+                        "Lợi ích của bản thân",
+                        "Lợi ích của nhân dân, tập thể và đất nước",
+                        "Lợi ích của bạn bè",
+                        "Lợi ích vật chất"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "id":  11,
+        "difficulty":  "easy",
+        "question":  "Lối sống của Hồ Chí Minh được tài liệu dùng làm dẫn chứng cho đạo đức là gì?",
+        "answers":  [
+                        "Xa hoa, hưởng thụ",
+                        "Giản dị, tiết kiệm",
+                        "Giàu có, sung túc",
+                        "Nghiêm khắc, khép kín"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "id":  12,
+        "difficulty":  "easy",
+        "question":  "Tư tưởng “nói đi đôi với làm” nhấn mạnh điều gì?",
+        "answers":  [
+                        "Chỉ cần nói hay",
+                        "Chỉ cần có kiến thức",
+                        "Đạo đức phải được thể hiện qua hành động",
+                        "Không cần hành động"
+                    ],
+        "correctAnswer":  2
+    },
+    {
+        "id":  13,
+        "difficulty":  "easy",
+        "question":  "Theo tài liệu, sinh viên muốn phát triển không chỉ cần điều gì?",
+        "answers":  [
+                        "Học giỏi",
+                        "Chuyên môn",
+                        "Phẩm chất và trách nhiệm",
+                        "Tất cả các ý trên"
+                    ],
+        "correctAnswer":  3
+    },
+    {
+        "id":  14,
+        "difficulty":  "easy",
+        "question":  "Một trong những phẩm chất được tài liệu nhấn mạnh đối với sinh viên là gì?",
+        "answers":  [
+                        "Trung thực",
+                        "Giàu có",
+                        "Nổi tiếng",
+                        "Có quyền lực"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "id":  15,
+        "difficulty":  "easy",
+        "question":  "Mục 2a trong bài nói về nội dung nào?",
+        "answers":  [
+                        "Cần, kiệm, liêm, chính",
+                        "Trung với Đảng, trung với nước, hiếu với dân",
+                        "Tinh thần quốc tế",
+                        "Tu dưỡng đạo đức suốt đời"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "id":  16,
+        "difficulty":  "easy",
+        "question":  "Hồ Chí Minh kế thừa quan niệm truyền thống nào để phát triển thành “trung với nước, hiếu với dân”?",
+        "answers":  [
+                        "“Nhân nghĩa lễ trí tín”",
+                        "“Trung với vua, hiếu với cha mẹ”",
+                        "“Cần, kiệm, liêm, chính”",
+                        "“Lá lành đùm lá rách”"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "id":  17,
+        "difficulty":  "easy",
+        "question":  "Theo Hồ Chí Minh, “trung” được phát triển thành gì?",
+        "answers":  [
+                        "Trung với vua",
+                        "Trung với gia đình",
+                        "Trung với nước",
+                        "Trung với bản thân"
+                    ],
+        "correctAnswer":  2
+    },
+    {
+        "id":  18,
+        "difficulty":  "easy",
+        "question":  "Theo tư tưởng Hồ Chí Minh, “hiếu” được mở rộng thành trách nhiệm với ai?",
+        "answers":  [
+                        "Chỉ cha mẹ",
+                        "Chỉ gia đình",
+                        "Toàn thể nhân dân",
+                        "Chỉ bạn bè"
+                    ],
+        "correctAnswer":  2
+    },
+    {
+        "id":  19,
+        "difficulty":  "easy",
+        "question":  "“Trung với nước” có nghĩa là trung thành với điều gì?",
+        "answers":  [
+                        "Một cá nhân",
+                        "Một vị vua",
+                        "Tổ quốc và sự nghiệp của dân tộc",
+                        "Một tổ chức kinh tế"
+                    ],
+        "correctAnswer":  2
+    },
+    {
+        "id":  20,
+        "difficulty":  "easy",
+        "question":  "“Hiếu với dân” thể hiện trách nhiệm đối với ai?",
+        "answers":  [
+                        "Nhân dân",
+                        "Chỉ gia đình",
+                        "Chỉ bạn bè",
+                        "Chỉ đồng nghiệp"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "id":  21,
+        "difficulty":  "easy",
+        "question":  "Theo tài liệu, “trung với nước” luôn gắn liền với điều gì?",
+        "answers":  [
+                        "Hiếu với dân",
+                        "Làm giàu",
+                        "Có quyền lực",
+                        "Thành công cá nhân"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "id":  22,
+        "difficulty":  "easy",
+        "question":  "Theo tư tưởng Hồ Chí Minh, yêu nước không chỉ thể hiện bằng điều gì?",
+        "answers":  [
+                        "Lời nói",
+                        "Suy nghĩ",
+                        "Việc làm",
+                        "Tất cả các ý trên"
+                    ],
+        "correctAnswer":  3
+    },
+    {
+        "id":  23,
+        "difficulty":  "easy",
+        "question":  "Yêu nước phải được thể hiện qua việc làm cho điều gì phát triển?",
+        "answers":  [
+                        "Cá nhân",
+                        "Đất nước",
+                        "Một nhóm người",
+                        "Gia đình riêng"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "id":  24,
+        "difficulty":  "easy",
+        "question":  "Trong các đợt bão lũ, lực lượng nào được tài liệu dùng làm dẫn chứng?",
+        "answers":  [
+                        "Quân đội, công an và đội cứu hộ",
+                        "Doanh nghiệp tư nhân",
+                        "Các vận động viên",
+                        "Nghệ sĩ"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "id":  25,
+        "difficulty":  "easy",
+        "question":  "Trong bão lũ, lực lượng cứu hộ thực hiện hoạt động nào?",
+        "answers":  [
+                        "Sơ tán người dân",
+                        "Vận chuyển lương thực",
+                        "Hỗ trợ gia đình gặp khó khăn",
+                        "Tất cả các ý trên"
+                    ],
+        "correctAnswer":  3
+    },
+    {
+        "id":  26,
+        "difficulty":  "easy",
+        "question":  "Theo tài liệu, “nước và dân” có mối quan hệ như thế nào?",
+        "answers":  [
+                        "Hoàn toàn tách biệt",
+                        "Không liên quan",
+                        "Không tách rời nhau",
+                        "Đối lập nhau"
+                    ],
+        "correctAnswer":  2
+    },
+    {
+        "id":  27,
+        "difficulty":  "easy",
+        "question":  "“Cần, kiệm, liêm, chính, chí công vô tư” được Hồ Chí Minh xem là gì?",
+        "answers":  [
+                        "Những phẩm chất cốt lõi của đạo đức cách mạng",
+                        "Những kỹ năng nghề nghiệp",
+                        "Những quy định pháp luật",
+                        "Những mục tiêu kinh tế"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "id":  28,
+        "difficulty":  "easy",
+        "question":  "“Cần” có nghĩa là gì?",
+        "answers":  [
+                        "Chăm chỉ, siêng năng",
+                        "Tiết kiệm",
+                        "Trong sạch",
+                        "Ngay thẳng"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "id":  29,
+        "difficulty":  "easy",
+        "question":  "Người có đức “Cần” cần làm việc như thế nào?",
+        "answers":  [
+                        "Làm việc tùy ý",
+                        "Có kế hoạch, năng suất và hiệu quả",
+                        "Làm việc thật ít",
+                        "Chỉ làm khi được nhắc"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "id":  30,
+        "difficulty":  "easy",
+        "question":  "“Kiệm” có nghĩa là gì?",
+        "answers":  [
+                        "Tiết kiệm",
+                        "Tham lam",
+                        "Hưởng thụ",
+                        "Keo kiệt"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "id":  31,
+        "difficulty":  "easy",
+        "question":  "Theo tài liệu, “Kiệm” không có nghĩa là gì?",
+        "answers":  [
+                        "Tiết kiệm thời gian",
+                        "Tiết kiệm tiền bạc",
+                        "Tiết kiệm sức lao động",
+                        "Keo kiệt"
+                    ],
+        "correctAnswer":  3
+    },
+    {
+        "id":  32,
+        "difficulty":  "easy",
+        "question":  "“Liêm” có nghĩa là gì?",
+        "answers":  [
+                        "Trong sạch",
+                        "Chăm chỉ",
+                        "Tiết kiệm",
+                        "Làm việc nhanh"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "id":  33,
+        "difficulty":  "easy",
+        "question":  "Người có phẩm chất “Liêm” không nên tham điều gì?",
+        "answers":  [
+                        "Tiền",
+                        "Địa vị",
+                        "Lợi ích cá nhân",
+                        "Tất cả các ý trên"
+                    ],
+        "correctAnswer":  3
+    },
+    {
+        "id":  34,
+        "difficulty":  "easy",
+        "question":  "“Chính” có nghĩa là gì?",
+        "answers":  [
+                        "Ngay thẳng, trung thực, đúng đắn",
+                        "Tiết kiệm",
+                        "Chăm chỉ",
+                        "Có quyền lực"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "id":  35,
+        "difficulty":  "easy",
+        "question":  "“Chí công vô tư” là gì?",
+        "answers":  [
+                        "Đặt lợi ích cá nhân lên trên",
+                        "Đặt lợi ích chung lên trên lợi ích cá nhân",
+                        "Chỉ quan tâm đến bản thân",
+                        "Không cần quan tâm đến tập thể"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "id":  36,
+        "difficulty":  "easy",
+        "question":  "“Chí công vô tư” yêu cầu con người không được làm gì?",
+        "answers":  [
+                        "Học tập",
+                        "Làm việc",
+                        "Thiên vị hay vụ lợi",
+                        "Giúp đỡ người khác"
+                    ],
+        "correctAnswer":  2
+    },
+    {
+        "id":  37,
+        "difficulty":  "easy",
+        "question":  "Năm phẩm chất “Cần, kiệm, liêm, chính, chí công vô tư” có mối quan hệ như thế nào?",
+        "answers":  [
+                        "Không liên quan nhau",
+                        "Có quan hệ chặt chẽ với nhau",
+                        "Chỉ cần một phẩm chất",
+                        "Có thể thay thế hoàn toàn cho nhau"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "id":  38,
+        "difficulty":  "easy",
+        "question":  "Dẫn chứng về phòng, chống tham nhũng và lãng phí liên quan rõ nhất đến phẩm chất nào?",
+        "answers":  [
+                        "Liêm và chí công vô tư",
+                        "Chỉ cần",
+                        "Chỉ kiệm",
+                        "Chỉ chính"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "id":  39,
+        "difficulty":  "easy",
+        "question":  "Theo Hồ Chí Minh, thương yêu con người là gì?",
+        "answers":  [
+                        "Một trong những phẩm chất đạo đức cao đẹp",
+                        "Một kỹ năng nghề nghiệp",
+                        "Một quyền lợi cá nhân",
+                        "Một hình thức giải trí"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "id":  40,
+        "difficulty":  "easy",
+        "question":  "Tình yêu thương của Hồ Chí Minh hướng đến đối tượng nào?",
+        "answers":  [
+                        "Chỉ người thân",
+                        "Chỉ bạn bè",
+                        "Nhân dân và những người gặp khó khăn",
+                        "Chỉ người có cùng hoàn cảnh"
+                    ],
+        "correctAnswer":  2
+    },
+    {
+        "id":  41,
+        "difficulty":  "easy",
+        "question":  "Tình yêu thương con người theo Hồ Chí Minh có phân biệt dân tộc hay màu da không?",
+        "answers":  [
+                        "Có",
+                        "Không",
+                        "Chỉ phân biệt trong một số trường hợp",
+                        "Chỉ phân biệt dân tộc"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "id":  42,
+        "difficulty":  "easy",
+        "question":  "Theo tài liệu, yêu thương con người phải được thể hiện như thế nào?",
+        "answers":  [
+                        "Chỉ bằng lời nói",
+                        "Chỉ bằng cảm xúc",
+                        "Bằng hành động cụ thể",
+                        "Không cần hành động"
+                    ],
+        "correctAnswer":  2
+    },
+    {
+        "id":  43,
+        "difficulty":  "easy",
+        "question":  "Một biểu hiện của yêu thương con người là gì?",
+        "answers":  [
+                        "Tôn trọng người khác",
+                        "Khinh thường người khác",
+                        "Ích kỷ",
+                        "Vô trách nhiệm"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "id":  44,
+        "difficulty":  "easy",
+        "question":  "Theo tài liệu, đối với người mắc sai lầm, cần có thái độ như thế nào?",
+        "answers":  [
+                        "Bao dung và tạo điều kiện để họ sửa chữa",
+                        "Xa lánh hoàn toàn",
+                        "Phê phán mọi lúc",
+                        "Không quan tâm"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "id":  45,
+        "difficulty":  "easy",
+        "question":  "Dẫn chứng thực tế được đưa ra cho nội dung “thương yêu con người” là gì?",
+        "answers":  [
+                        "Hoạt động hỗ trợ đồng bào vùng bão lũ",
+                        "Hoạt động kinh doanh",
+                        "Hoạt động thể thao",
+                        "Hoạt động giải trí"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "id":  46,
+        "difficulty":  "easy",
+        "question":  "Trong hoạt động hỗ trợ đồng bào bão lũ, mọi người có thể quyên góp gì?",
+        "answers":  [
+                        "Tiền",
+                        "Lương thực",
+                        "Quần áo",
+                        "Tất cả các ý trên"
+                    ],
+        "correctAnswer":  3
+    },
+    {
+        "id":  47,
+        "difficulty":  "easy",
+        "question":  "Tình thương theo tư tưởng Hồ Chí Minh không dừng lại ở điều gì?",
+        "answers":  [
+                        "Sự cảm thông",
+                        "Kiến thức",
+                        "Lợi ích cá nhân",
+                        "Địa vị"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "id":  48,
+        "difficulty":  "easy",
+        "question":  "Tình thương được chuyển thành điều gì để giúp người khác?",
+        "answers":  [
+                        "Hành động thiết thực",
+                        "Lời nói suông",
+                        "Lợi ích cá nhân",
+                        "Quyền lực"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "id":  49,
+        "difficulty":  "easy",
+        "question":  "Tinh thần quốc tế trong sáng là một chuẩn mực đạo đức nào trong tư tưởng Hồ Chí Minh?",
+        "answers":  [
+                        "Chuẩn mực đạo đức cách mạng",
+                        "Chuẩn mực kinh tế",
+                        "Chuẩn mực kỹ thuật",
+                        "Chuẩn mực thể thao"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "id":  50,
+        "difficulty":  "easy",
+        "question":  "Tinh thần quốc tế trong sáng thể hiện sự gì với nhân dân các nước?",
+        "answers":  [
+                        "Tôn trọng, đoàn kết, yêu thương và hợp tác",
+                        "Cạnh tranh và đối đầu",
+                        "Xa lánh",
+                        "Phân biệt"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "id":  51,
+        "difficulty":  "easy",
+        "question":  "Tinh thần quốc tế trong sáng hướng đến mục tiêu nào?",
+        "answers":  [
+                        "Hòa bình, độc lập, dân chủ và tiến bộ xã hội",
+                        "Chiến tranh",
+                        "Đối đầu",
+                        "Chia rẽ"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "id":  52,
+        "difficulty":  "easy",
+        "question":  "Hồ Chí Minh kết hợp điều gì với tinh thần quốc tế?",
+        "answers":  [
+                        "Lòng yêu nước",
+                        "Lợi ích cá nhân",
+                        "Chủ nghĩa cá nhân",
+                        "Sự phân biệt"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "id":  53,
+        "difficulty":  "easy",
+        "question":  "Yêu nước theo tư tưởng Hồ Chí Minh có đồng nghĩa với việc xem thường dân tộc khác không?",
+        "answers":  [
+                        "Có",
+                        "Không",
+                        "Chỉ trong chiến tranh",
+                        "Chỉ trong kinh tế"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "id":  54,
+        "difficulty":  "easy",
+        "question":  "Mỗi dân tộc cần vừa độc lập, tự chủ vừa làm gì?",
+        "answers":  [
+                        "Đoàn kết và hợp tác với các quốc gia khác",
+                        "Đối đầu với các nước",
+                        "Tách biệt hoàn toàn",
+                        "Phụ thuộc vào nước khác"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "id":  55,
+        "difficulty":  "easy",
+        "question":  "Hồ Chí Minh phản đối điều gì?",
+        "answers":  [
+                        "Phân biệt chủng tộc",
+                        "Đoàn kết quốc tế",
+                        "Hợp tác",
+                        "Hòa bình"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "id":  56,
+        "difficulty":  "easy",
+        "question":  "Dẫn chứng thực tế ngày nay về tinh thần quốc tế trong sáng là gì?",
+        "answers":  [
+                        "Việt Nam tham gia hoạt động gìn giữ hòa bình của Liên Hợp Quốc",
+                        "Việt Nam tổ chức các cuộc thi thể thao",
+                        "Việt Nam phát triển du lịch",
+                        "Việt Nam xây dựng trường học"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "id":  57,
+        "difficulty":  "easy",
+        "question":  "Việt Nam cử ai tham gia các phái bộ gìn giữ hòa bình của Liên Hợp Quốc?",
+        "answers":  [
+                        "Cán bộ, chiến sĩ",
+                        "Chỉ sinh viên",
+                        "Chỉ doanh nhân",
+                        "Chỉ vận động viên"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "id":  58,
+        "difficulty":  "easy",
+        "question":  "Tinh thần quốc tế trong sáng hướng con người đến điều gì?",
+        "answers":  [
+                        "Hòa bình, hữu nghị và hợp tác",
+                        "Chia rẽ",
+                        "Thù hằn",
+                        "Đối đầu"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "id":  59,
+        "difficulty":  "easy",
+        "question":  "Mục 3a nói về nguyên tắc nào?",
+        "answers":  [
+                        "Nói đi đôi với làm, nêu gương về đạo đức",
+                        "Xây đi đôi với chống",
+                        "Tu dưỡng suốt đời",
+                        "Trung với nước, hiếu với dân"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "id":  60,
+        "difficulty":  "easy",
+        "question":  "Theo Hồ Chí Minh, “nói đi đôi với làm” có nghĩa là gì?",
+        "answers":  [
+                        "Nói gì cũng được",
+                        "Điều mình nói phải được thể hiện bằng hành động thực tế",
+                        "Chỉ cần nói",
+                        "Không cần thực hiện cam kết"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "id":  61,
+        "difficulty":  "easy",
+        "question":  "Hồ Chí Minh phê phán việc nào?",
+        "answers":  [
+                        "Nói một đằng, làm một nẻo",
+                        "Nói đi đôi với làm",
+                        "Nêu gương",
+                        "Rèn luyện đạo đức"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "id":  62,
+        "difficulty":  "easy",
+        "question":  "“Nêu gương về đạo đức” có nghĩa là gì?",
+        "answers":  [
+                        "Bản thân phải làm gương trước",
+                        "Chỉ yêu cầu người khác làm",
+                        "Chỉ nói về đạo đức",
+                        "Không cần hành động"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "id":  63,
+        "difficulty":  "easy",
+        "question":  "Theo Hồ Chí Minh, muốn giáo dục người khác thì trước hết bản thân phải làm gì?",
+        "answers":  [
+                        "Làm gương",
+                        "Có quyền lực",
+                        "Có nhiều tiền",
+                        "Nổi tiếng"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "id":  64,
+        "difficulty":  "easy",
+        "question":  "Đối tượng nào càng phải gương mẫu về đạo đức?",
+        "answers":  [
+                        "Cán bộ, người lãnh đạo",
+                        "Chỉ sinh viên",
+                        "Chỉ trẻ em",
+                        "Chỉ người lao động"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "id":  65,
+        "difficulty":  "easy",
+        "question":  "Dẫn chứng gần với sinh viên cho nguyên tắc “nói đi đôi với làm” là gì?",
+        "answers":  [
+                        "Làm việc nhóm",
+                        "Chơi thể thao",
+                        "Đi du lịch",
+                        "Mua sắm"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "id":  66,
+        "difficulty":  "easy",
+        "question":  "Một thành viên nói mọi người phải hoàn thành công việc đúng hạn nhưng bản thân thường xuyên nộp trễ thể hiện điều gì?",
+        "answers":  [
+                        "Nói đi đôi với làm",
+                        "Nói không đi đôi với làm",
+                        "Nêu gương",
+                        "Chí công vô tư"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "id":  67,
+        "difficulty":  "easy",
+        "question":  "Một trưởng nhóm hoàn thành phần việc đúng hạn và chủ động hỗ trợ thành viên khác đang làm gì?",
+        "answers":  [
+                        "Nêu gương bằng hành động",
+                        "Trốn tránh trách nhiệm",
+                        "Vụ lợi cá nhân",
+                        "Không quan tâm tập thể"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "id":  68,
+        "difficulty":  "easy",
+        "question":  "Theo Hồ Chí Minh, một tấm gương sống có giá trị như thế nào?",
+        "answers":  [
+                        "Có giá trị hơn nhiều lời nói tuyên truyền",
+                        "Không có giá trị",
+                        "Chỉ có giá trị trong gia đình",
+                        "Chỉ có giá trị trong học tập"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "id":  69,
+        "difficulty":  "easy",
+        "question":  "Theo Hồ Chí Minh, “xây” và “chống” cần được thực hiện như thế nào?",
+        "answers":  [
+                        "Đồng thời",
+                        "Chỉ “xây”",
+                        "Chỉ “chống”",
+                        "Không cần thực hiện"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "id":  70,
+        "difficulty":  "easy",
+        "question":  "“Xây” trong rèn luyện đạo đức là gì?",
+        "answers":  [
+                        "Xây dựng phẩm chất và hành vi tốt",
+                        "Loại bỏ người xấu",
+                        "Xử phạt",
+                        "Chỉ trích người khác"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "id":  71,
+        "difficulty":  "easy",
+        "question":  "Đâu là một phẩm chất thuộc nội dung “xây”?",
+        "answers":  [
+                        "Trung thực",
+                        "Gian dối",
+                        "Ích kỷ",
+                        "Lười biếng"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "id":  72,
+        "difficulty":  "easy",
+        "question":  "“Chống” trong rèn luyện đạo đức là gì?",
+        "answers":  [
+                        "Loại bỏ những hành vi xấu",
+                        "Xây dựng phẩm chất tốt",
+                        "Học tập",
+                        "Giúp đỡ người khác"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "id":  73,
+        "difficulty":  "easy",
+        "question":  "Đâu là một hành vi cần “chống” theo tài liệu?",
+        "answers":  [
+                        "Gian dối",
+                        "Trung thực",
+                        "Trách nhiệm",
+                        "Đoàn kết"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "id":  74,
+        "difficulty":  "easy",
+        "question":  "Theo Hồ Chí Minh, trong mối quan hệ giữa “xây” và “chống”, yếu tố nào là chính?",
+        "answers":  [
+                        "Xây",
+                        "Chống",
+                        "Cả hai đều không quan trọng",
+                        "Không xác định"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "id":  75,
+        "difficulty":  "easy",
+        "question":  "Dẫn chứng được sử dụng để minh họa cho “xây đi đôi với chống” là gì?",
+        "answers":  [
+                        "Gian lận trong học tập",
+                        "Cứu hộ bão lũ",
+                        "Gìn giữ hòa bình",
+                        "Làm việc nhóm"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "id":  76,
+        "difficulty":  "easy",
+        "question":  "Trong ví dụ về gian lận thi cử, xử lý gian lận là biểu hiện của gì?",
+        "answers":  [
+                        "“Chống”",
+                        "“Xây”",
+                        "“Nêu gương”",
+                        "“Tu dưỡng suốt đời”"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "id":  77,
+        "difficulty":  "easy",
+        "question":  "Theo Hồ Chí Minh, đạo đức có phải là thứ có một lần rồi giữ được mãi không?",
+        "answers":  [
+                        "Có",
+                        "Không",
+                        "Chỉ đối với người cách mạng",
+                        "Chỉ đối với sinh viên"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "id":  78,
+        "difficulty":  "easy",
+        "question":  "Tu dưỡng đạo đức cần được thực hiện như thế nào?",
+        "answers":  [
+                        "Thường xuyên, liên tục và suốt đời",
+                        "Chỉ khi còn trẻ",
+                        "Chỉ khi mắc lỗi",
+                        "Chỉ khi được yêu cầu"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "id":  79,
+        "difficulty":  "easy",
+        "question":  "“Tu dưỡng” theo tài liệu có nghĩa là gì?",
+        "answers":  [
+                        "Tự rèn luyện, tự sửa mình",
+                        "Chỉ trích người khác",
+                        "Học thêm kiến thức",
+                        "Làm việc nhiều hơn"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "id":  80,
+        "difficulty":  "easy",
+        "question":  "Theo Hồ Chí Minh, đạo đức cách mạng được phát triển và củng cố như thế nào?",
+        "answers":  [
+                        "Do đấu tranh, rèn luyện bền bỉ hằng ngày",
+                        "Tự nhiên có được",
+                        "Chỉ cần học lý thuyết",
+                        "Chỉ cần có tài năng"
+                    ],
+        "correctAnswer":  0
+    }
 ]

@@ -2,240 +2,600 @@
   {
     "id": 1,
     "difficulty": "medium",
-    "question": "Theo Đại hội VI, 'nguyên nhân của mọi nguyên nhân' dẫn đến khuyết điểm của Đảng là gì?",
+    "question": "Vì sao Hồ Chí Minh xem đạo đức là “gốc” của người cách mạng?",
     "answers": [
-      "Khó khăn kinh tế thế giới.",
-      "Khuyết điểm trong tư tưởng, tổ chức và công tác cán bộ.",
-      "Bao vây cấm vận.",
-      "Thiếu nguồn viện trợ."
+      "Vì đạo đức giúp con người có nhiều tài sản",
+      "Vì đạo đức định hướng cách sử dụng năng lực và giúp người cách mạng phục vụ nhân dân",
+      "Vì đạo đức thay thế hoàn toàn năng lực",
+      "Vì đạo đức giúp con người có quyền lực"
     ],
     "correctAnswer": 1
   },
   {
     "id": 2,
     "difficulty": "medium",
-    "question": "Trong bốn bài học của Đại hội VI, nội dung nào được đặt lên trước tiên?",
+    "question": "Mối quan hệ giữa tài và đức theo tài liệu được hiểu như thế nào?",
     "answers": [
-      "Kết hợp sức mạnh dân tộc với sức mạnh thời đại.",
-      "Lấy dân làm gốc.",
-      "Xây dựng Đảng ngang tầm.",
-      "Đổi mới kinh tế."
+      "Có tài là đủ",
+      "Có đức thì không cần tài",
+      "Tài giúp làm việc, còn đạo đức định hướng việc sử dụng tài năng",
+      "Tài và đức không liên quan"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 2
   },
   {
     "id": 3,
     "difficulty": "medium",
-    "question": "Đổi mới cơ chế quản lý kinh tế theo Đại hội VI được thể hiện bằng nội dung nào?",
+    "question": "Một người rất giỏi chuyên môn nhưng dùng năng lực để trục lợi cá nhân thể hiện vấn đề gì?",
     "answers": [
-      "Giữ nguyên cơ chế bao cấp.",
-      "Kết hợp kế hoạch với thị trường, xóa bỏ bao cấp.",
-      "Xóa bỏ kinh tế nhà nước.",
-      "Chỉ phát triển kinh tế tư nhân."
+      "Có tài nhưng thiếu đạo đức",
+      "Có đức nhưng thiếu tài",
+      "Có tinh thần quốc tế",
+      "Có chí công vô tư"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 0
   },
   {
     "id": 4,
     "difficulty": "medium",
-    "question": "Khoán 10 (1988) trao quyền chủ yếu cho ai?",
+    "question": "Điểm đổi mới trong quan niệm “trung với nước, hiếu với dân” là gì?",
     "answers": [
-      "Doanh nghiệp nhà nước.",
-      "Hộ nông dân.",
-      "Hợp tác xã.",
-      "Chính quyền địa phương."
+      "“Trung” chỉ dành cho vua",
+      "“Hiếu” chỉ dành cho cha mẹ",
+      "“Trung” hướng đến Tổ quốc, “hiếu” mở rộng thành trách nhiệm với nhân dân",
+      "Không có sự thay đổi"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 2
   },
   {
     "id": 5,
     "difficulty": "medium",
-    "question": "Việc xóa bỏ chế độ tem phiếu cuối năm 1988 gắn với chủ trương nào?",
+    "question": "Tại sao “trung với nước” phải gắn với “hiếu với dân”?",
     "answers": [
-      "Cơ chế nhiều giá.",
-      "Cơ chế một giá và hạch toán kinh doanh.",
-      "Tăng bao cấp.",
-      "Đóng cửa thị trường."
+      "Vì nước và dân tách biệt",
+      "Vì yêu nước cần được thể hiện qua hành động vì nhân dân",
+      "Vì chỉ cần phục vụ nhân dân, không cần yêu nước",
+      "Vì nhân dân có quyền lực"
     ],
     "correctAnswer": 1
   },
   {
     "id": 6,
     "difficulty": "medium",
-    "question": "Một thành tựu nổi bật sau những chính sách đổi mới giai đoạn đầu là?",
+    "question": "Một cán bộ tích cực cứu trợ người dân vùng bão lũ thể hiện rõ nhất phẩm chất nào?",
     "answers": [
-      "Lạm phát tăng lên.",
-      "Xuất khẩu lương thực và giảm lạm phát.",
-      "Bãi bỏ kinh tế nhà nước.",
-      "Gia nhập WTO."
-    ],
-    "correctAnswer": 1
-  },
-  {
-    "id": 7,
-    "difficulty": "medium",
-    "question": "Bối cảnh quốc tế tác động mạnh đến Đại hội VII là?",
-    "answers": [
-      "Khủng hoảng các nước XHCN Đông Âu và Liên Xô.",
-      "Chiến tranh thế giới.",
-      "Khủng hoảng dầu mỏ.",
-      "Khủng hoảng tài chính châu Á."
+      "Trung với nước, hiếu với dân",
+      "Liêm",
+      "Kiệm",
+      "Chính"
     ],
     "correctAnswer": 0
   },
   {
-    "id": 8,
+    "id": 7,
     "difficulty": "medium",
-    "question": "Đại hội VII thông qua văn kiện quan trọng nào?",
+    "question": "Một sinh viên lập kế hoạch học tập, chăm chỉ hoàn thành nhiệm vụ và đạt hiệu quả tốt thể hiện phẩm chất nào?",
     "answers": [
-      "Hiến pháp 1992.",
-      "Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên CNXH.",
-      "Chiến lược biển.",
-      "Nghị quyết Trung ương 6."
+      "Kiệm",
+      "Cần",
+      "Liêm",
+      "Chí công vô tư"
     ],
     "correctAnswer": 1
+  },
+  {
+    "id": 8,
+    "difficulty": "medium",
+    "question": "Một sinh viên không sử dụng tài nguyên học tập một cách lãng phí nhưng vẫn chi tiêu hợp lý thể hiện phẩm chất nào?",
+    "answers": [
+      "Kiệm",
+      "Liêm",
+      "Chính",
+      "Thương yêu"
+    ],
+    "correctAnswer": 0
   },
   {
     "id": 9,
     "difficulty": "medium",
-    "question": "Lần đầu tiên Đại hội VII khẳng định điều gì?",
+    "question": "Một người từ chối nhận tiền để giải quyết công việc cho người khác thể hiện phẩm chất nào?",
     "answers": [
-      "Kinh tế tư nhân là chủ đạo.",
-      "Tư tưởng Hồ Chí Minh cùng chủ nghĩa Mác-Lênin là nền tảng tư tưởng.",
-      "Gia nhập ASEAN.",
-      "Đổi mới chính trị trước."
+      "Cần",
+      "Kiệm",
+      "Liêm",
+      "Thương yêu"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 2
   },
   {
     "id": 10,
     "difficulty": "medium",
-    "question": "Một trong năm bài học lớn của Cương lĩnh 1991 là?",
+    "question": "Một cán bộ xử lý công việc công bằng, không thiên vị người quen thể hiện phẩm chất nào rõ nhất?",
     "answers": [
-      "Ưu tiên công nghiệp nặng.",
-      "Nắm vững ngọn cờ độc lập dân tộc và CNXH.",
-      "Xóa bỏ kinh tế nhiều thành phần.",
-      "Tam quyền phân lập."
+      "Cần",
+      "Chính",
+      "Kiệm",
+      "Thương yêu"
     ],
     "correctAnswer": 1
   },
   {
     "id": 11,
     "difficulty": "medium",
-    "question": "Đặc trưng đầu tiên của xã hội XHCN trong Cương lĩnh 1991 là?",
+    "question": "Một người quyết định phân chia lợi ích dựa trên lợi ích chung thay vì ưu tiên bản thân thể hiện phẩm chất nào?",
     "answers": [
-      "Có nền kinh tế hiện đại.",
-      "Do nhân dân lao động làm chủ.",
-      "Có lực lượng sản xuất phát triển.",
-      "Có quan hệ quốc tế rộng mở."
+      "Liêm",
+      "Chính",
+      "Chí công vô tư",
+      "Cần"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 2
   },
   {
     "id": 12,
     "difficulty": "medium",
-    "question": "Phương hướng đầu tiên xây dựng CNXH được nêu trong Cương lĩnh 1991 là?",
+    "question": "Tại sao “kiệm” không đồng nghĩa với “keo kiệt”?",
     "answers": [
-      "Phát triển kinh tế tư nhân.",
-      "Xây dựng Nhà nước XHCN.",
-      "Gia nhập ASEAN.",
-      "Đổi mới giáo dục."
+      "Vì kiệm là tiết kiệm hợp lý, không lãng phí",
+      "Vì kiệm là tiêu tiền thoải mái",
+      "Vì kiệm chỉ áp dụng cho thời gian",
+      "Vì kiệm không liên quan đến tiền bạc"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 0
   },
   {
     "id": 13,
     "difficulty": "medium",
-    "question": "Theo Cương lĩnh 1991, nền kinh tế hàng hóa nhiều thành phần vận hành theo?",
+    "question": "Một người có năng lực nhưng không liêm chính sẽ có nguy cơ gì?",
     "answers": [
-      "Cơ chế bao cấp.",
-      "Cơ chế thị trường có sự quản lý của Nhà nước theo định hướng XHCN.",
-      "Thị trường tự do hoàn toàn.",
-      "Chỉ theo kế hoạch."
+      "Luôn giúp ích cho xã hội",
+      "Dễ tham lợi ích cá nhân",
+      "Luôn đặt lợi ích chung lên trước",
+      "Luôn trung thực"
     ],
     "correctAnswer": 1
   },
   {
     "id": 14,
     "difficulty": "medium",
-    "question": "Một mục tiêu của giai đoạn 1991-1995 là?",
+    "question": "Vì sao năm phẩm chất “cần, kiệm, liêm, chính, chí công vô tư” phải được rèn luyện đầy đủ?",
     "answers": [
-      "Hoàn thành công nghiệp hóa.",
-      "Đưa đất nước cơ bản ra khỏi khủng hoảng KT-XH.",
-      "Gia nhập WTO.",
-      "Tăng trưởng trên 10%."
+      "Vì chúng có quan hệ chặt chẽ với nhau",
+      "Vì chỉ một phẩm chất là đủ",
+      "Vì chúng không liên quan đến nhau",
+      "Vì chúng chỉ áp dụng cho cán bộ"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 0
   },
   {
     "id": 15,
     "difficulty": "medium",
-    "question": "Chủ trương đối ngoại đầu những năm 1990 được thể hiện qua phương châm nào?",
+    "question": "Một người rất tiết kiệm nhưng không chăm chỉ làm việc sẽ gặp hạn chế nào?",
     "answers": [
-      "Đóng cửa tự lực.",
-      "Thêm bạn, bớt thù.",
-      "Chỉ hợp tác khu vực.",
-      "Ưu tiên quân sự."
+      "Khó tạo ra hiệu quả",
+      "Luôn đạt hiệu quả cao",
+      "Luôn có đạo đức hoàn thiện",
+      "Luôn có tinh thần quốc tế"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 0
   },
   {
     "id": 16,
     "difficulty": "medium",
-    "question": "Việt Nam rút hết quân tình nguyện khỏi Campuchia vào thời điểm nào?",
+    "question": "Theo tài liệu, tại sao thương yêu con người không chỉ là tình cảm?",
     "answers": [
-      "1988",
-      "1989",
-      "1991",
-      "1995"
+      "Vì tình cảm không quan trọng",
+      "Vì tình thương phải được chuyển thành hành động cụ thể",
+      "Vì chỉ cần giúp bằng tiền",
+      "Vì tình thương chỉ dành cho người thân"
     ],
     "correctAnswer": 1
   },
   {
     "id": 17,
     "difficulty": "medium",
-    "question": "Đến năm 1995, Việt Nam trở thành thành viên đầy đủ của tổ chức nào?",
+    "question": "Một sinh viên quyên góp lương thực cho đồng bào vùng bão lũ thể hiện điều gì?",
     "answers": [
-      "WTO",
-      "ASEAN",
-      "APEC",
-      "AFTA"
+      "Tình yêu thương được chuyển thành hành động",
+      "Chỉ là biểu hiện của “cần”",
+      "Chỉ là biểu hiện của “kiệm”",
+      "Không liên quan đến đạo đức"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 0
   },
   {
     "id": 18,
     "difficulty": "medium",
-    "question": "Theo tài liệu, năm 1995 Việt Nam thiết lập quan hệ ngoại giao với quốc gia nào?",
+    "question": "Bao dung với người mắc sai lầm và tạo điều kiện để họ sửa chữa thể hiện phẩm chất nào?",
     "answers": [
-      "Nhật Bản",
-      "Hoa Kỳ",
-      "Pháp",
-      "Nga"
+      "Thương yêu con người",
+      "Cần",
+      "Kiệm",
+      "Chính"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 0
   },
   {
     "id": 19,
     "difficulty": "medium",
-    "question": "Một trong những kết quả kinh tế giai đoạn 1991-1995 là?",
+    "question": "Tinh thần quốc tế trong sáng khác với dân tộc hẹp hòi ở điểm nào?",
     "answers": [
-      "GDP bình quân khoảng 8,2%/năm.",
-      "GDP giảm liên tục.",
-      "Lạm phát tăng trên 100%.",
-      "Ngừng xuất khẩu lương thực."
+      "Tôn trọng và hợp tác với các dân tộc khác",
+      "Đề cao dân tộc mình và coi thường dân tộc khác",
+      "Không hợp tác với quốc gia khác",
+      "Chỉ quan tâm đến lợi ích cá nhân"
     ],
     "correctAnswer": 0
   },
   {
     "id": 20,
     "difficulty": "medium",
-    "question": "Điểm chung xuyên suốt giữa Đại hội VI và VII là?",
+    "question": "Theo tài liệu, yêu nước đúng đắn cần kết hợp với điều gì?",
     "answers": [
-      "Từ bỏ mục tiêu XHCN.",
-      "Tiếp tục đổi mới gắn với giữ vững định hướng XHCN.",
-      "Ưu tiên đổi mới chính trị trước.",
-      "Chỉ phát triển kinh tế nhà nước."
+      "Cô lập quốc tế",
+      "Tinh thần quốc tế",
+      "Dân tộc hẹp hòi",
+      "Phân biệt chủng tộc"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 21,
+    "difficulty": "medium",
+    "question": "Một quốc gia vừa bảo vệ độc lập, vừa hợp tác với cộng đồng quốc tế vì hòa bình thể hiện điều gì?",
+    "answers": [
+      "Dân tộc hẹp hòi",
+      "Tinh thần quốc tế trong sáng",
+      "Ích kỷ",
+      "Chủ nghĩa cá nhân"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 22,
+    "difficulty": "medium",
+    "question": "Việc Việt Nam tham gia gìn giữ hòa bình Liên Hợp Quốc được tài liệu liên hệ với quan điểm nào?",
+    "answers": [
+      "Đối thoại thay cho đối đầu",
+      "Cạnh tranh thay cho hợp tác",
+      "Cô lập thay cho hợp tác",
+      "Đối đầu thay cho đối thoại"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 23,
+    "difficulty": "medium",
+    "question": "Một trưởng nhóm yêu cầu mọi người đúng hạn nhưng bản thân luôn nộp bài trễ. Đây là biểu hiện gì?",
+    "answers": [
+      "Nêu gương",
+      "Nói đi đôi với làm",
+      "Nói không đi đôi với làm",
+      "Chí công vô tư"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 24,
+    "difficulty": "medium",
+    "question": "Nếu trưởng nhóm luôn hoàn thành nhiệm vụ đúng hạn và hỗ trợ thành viên, điều đó thể hiện gì?",
+    "answers": [
+      "Nêu gương bằng hành động",
+      "Chỉ đạo bằng quyền lực",
+      "Chủ nghĩa cá nhân",
+      "Dân tộc hẹp hòi"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 25,
+    "difficulty": "medium",
+    "question": "Tại sao cán bộ, lãnh đạo càng phải nêu gương?",
+    "answers": [
+      "Vì hành động của họ có ảnh hưởng đến những người xung quanh",
+      "Vì họ không cần tu dưỡng",
+      "Vì họ có nhiều quyền lực",
+      "Vì họ không chịu trách nhiệm"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 26,
+    "difficulty": "medium",
+    "question": "Trong “xây đi đôi với chống”, việc giáo dục sinh viên trung thực thuộc hoạt động nào?",
+    "answers": [
+      "Xây",
+      "Chống",
+      "Xử phạt",
+      "Loại bỏ"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 27,
+    "difficulty": "medium",
+    "question": "Trong cùng vấn đề gian lận thi cử, việc xử lý sinh viên vi phạm thuộc hoạt động nào?",
+    "answers": [
+      "Xây",
+      "Chống",
+      "Nêu gương",
+      "Tu dưỡng"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 28,
+    "difficulty": "medium",
+    "question": "Nếu nhà trường chỉ xử phạt gian lận mà không giáo dục ý thức trung thực thì thiếu yếu tố nào?",
+    "answers": [
+      "Chống",
+      "Xây",
+      "Kiệm",
+      "Liêm"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 29,
+    "difficulty": "medium",
+    "question": "Theo Hồ Chí Minh, tại sao “xây” là chính?",
+    "answers": [
+      "Vì xây dựng cái tốt tạo điều kiện cho cái tốt phát triển",
+      "Vì không cần loại bỏ cái xấu",
+      "Vì xử phạt không cần thiết",
+      "Vì cái xấu không tồn tại"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 30,
+    "difficulty": "medium",
+    "question": "Một người mỗi ngày tự kiểm điểm, sửa lỗi và phát huy điểm tốt đang thực hiện điều gì?",
+    "answers": [
+      "Tu dưỡng đạo đức",
+      "Phân biệt chủng tộc",
+      "Chống đối",
+      "Chủ nghĩa cá nhân"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 31,
+    "difficulty": "medium",
+    "question": "Tại sao Hồ Chí Minh cho rằng tu dưỡng đạo đức phải suốt đời?",
+    "answers": [
+      "Vì con người có thể thay đổi và nếu không rèn luyện có thể thoái hóa",
+      "Vì con người không thể tiến bộ",
+      "Vì đạo đức không thể rèn luyện",
+      "Vì chỉ người trẻ mới cần đạo đức"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 32,
+    "difficulty": "medium",
+    "question": "Một người từng tốt nhưng sau đó trở nên ích kỷ do không rèn luyện thường xuyên cho thấy điều gì?",
+    "answers": [
+      "Đạo đức có thể tự duy trì",
+      "Đạo đức cần được tu dưỡng thường xuyên",
+      "Tài năng quan trọng hơn đạo đức",
+      "Không cần sửa chữa bản thân"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 33,
+    "difficulty": "medium",
+    "question": "Theo tài liệu, “điểm tốt thì phát huy, điểm xấu thì sửa chữa” thuộc nội dung nào?",
+    "answers": [
+      "Tu dưỡng đạo đức",
+      "Tinh thần quốc tế",
+      "Kiệm",
+      "Trung với nước"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 34,
+    "difficulty": "medium",
+    "question": "Một sinh viên không gian lận, đi học đúng giờ và giữ lời hứa đang rèn luyện điều gì?",
+    "answers": [
+      "Đạo đức và tính kỷ luật",
+      "Chủ nghĩa cá nhân",
+      "Dân tộc hẹp hòi",
+      "Lợi ích cá nhân"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 35,
+    "difficulty": "medium",
+    "question": "Một cán bộ sử dụng quyền hạn để nhận hối lộ vi phạm rõ nhất phẩm chất nào?",
+    "answers": [
+      "Liêm và chí công vô tư",
+      "Cần và kiệm",
+      "Thương yêu và quốc tế",
+      "Trung với nước"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 36,
+    "difficulty": "medium",
+    "question": "Tại sao hành vi tham nhũng có thể làm ảnh hưởng đến niềm tin của người dân?",
+    "answers": [
+      "Vì người có quyền lực sử dụng quyền lực để phục vụ lợi ích cá nhân",
+      "Vì người dân không quan tâm",
+      "Vì tham nhũng giúp xã hội phát triển",
+      "Vì đó là hành vi tiết kiệm"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 37,
+    "difficulty": "medium",
+    "question": "Một sinh viên nhận phần việc khó hơn để đảm bảo lợi ích chung của nhóm thể hiện rõ nhất:",
+    "answers": [
+      "Chí công vô tư",
+      "Liêm",
+      "Kiệm",
+      "Quốc tế"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 38,
+    "difficulty": "medium",
+    "question": "Một sinh viên giúp bạn sửa sai thay vì chế giễu bạn thể hiện:",
+    "answers": [
+      "Thương yêu con người",
+      "Cần",
+      "Kiệm",
+      "Chính"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 39,
+    "difficulty": "medium",
+    "question": "Một người luôn nói về trách nhiệm nhưng bản thân thường xuyên trốn tránh công việc vi phạm nguyên tắc nào?",
+    "answers": [
+      "Xây đi đôi với chống",
+      "Nói đi đôi với làm",
+      "Tu dưỡng suốt đời",
+      "Tinh thần quốc tế"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 40,
+    "difficulty": "medium",
+    "question": "Nếu một người muốn thuyết phục người khác sống trung thực, cách hiệu quả nhất theo tư tưởng nêu gương là gì?",
+    "answers": [
+      "Nói nhiều hơn",
+      "Bản thân sống trung thực",
+      "Phê bình người khác",
+      "Đưa ra hình phạt"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 41,
+    "difficulty": "medium",
+    "question": "“Một tấm gương sống” có giá trị vì sao?",
+    "answers": [
+      "Có sức thuyết phục bằng hành động thực tế",
+      "Có nhiều lời nói",
+      "Có quyền lực",
+      "Có nhiều tài sản"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 42,
+    "difficulty": "medium",
+    "question": "Theo tài liệu, đạo đức phải được thể hiện qua yếu tố nào?",
+    "answers": [
+      "Hành động thực tế",
+      "Khẩu hiệu",
+      "Danh tiếng",
+      "Địa vị"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 43,
+    "difficulty": "medium",
+    "question": "Một người nói “phải tiết kiệm” nhưng thường xuyên lãng phí tài sản công vi phạm nguyên tắc nào?",
+    "answers": [
+      "Nói đi đôi với làm",
+      "Tinh thần quốc tế",
+      "Thương yêu con người",
+      "Trung với nước"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 44,
+    "difficulty": "medium",
+    "question": "Một cán bộ không thiên vị người thân khi giải quyết công việc thể hiện:",
+    "answers": [
+      "Chính và chí công vô tư",
+      "Cần và kiệm",
+      "Thương yêu và quốc tế",
+      "Trung và hiếu"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 45,
+    "difficulty": "medium",
+    "question": "Một sinh viên dành thời gian giúp đỡ bạn học gặp khó khăn thể hiện rõ nhất:",
+    "answers": [
+      "Thương yêu con người",
+      "Kiệm",
+      "Liêm",
+      "Chính"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 46,
+    "difficulty": "medium",
+    "question": "Việc chống phân biệt chủng tộc thuộc nội dung nào?",
+    "answers": [
+      "Tinh thần quốc tế trong sáng",
+      "Cần",
+      "Kiệm",
+      "Nêu gương"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 47,
+    "difficulty": "medium",
+    "question": "Một quốc gia tôn trọng độc lập của các dân tộc khác nhưng vẫn hợp tác phát triển thể hiện:",
+    "answers": [
+      "Tinh thần quốc tế trong sáng",
+      "Dân tộc hẹp hòi",
+      "Ích kỷ",
+      "Chủ nghĩa cá nhân"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 48,
+    "difficulty": "medium",
+    "question": "Theo tư tưởng Hồ Chí Minh, muốn hướng dẫn người khác trước hết cần:",
+    "answers": [
+      "Có quyền lực",
+      "Làm mực thước cho người khác noi theo",
+      "Có nhiều tiền",
+      "Có địa vị"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 49,
+    "difficulty": "medium",
+    "question": "Một sinh viên nhận lỗi khi làm sai thể hiện điều gì?",
+    "answers": [
+      "Trách nhiệm và tu dưỡng đạo đức",
+      "Ích kỷ",
+      "Lười biếng",
+      "Dân tộc hẹp hòi"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 50,
+    "difficulty": "medium",
+    "question": "Ý nào phù hợp nhất với quan điểm “ở đời và làm người phải như thế nào?” trong tài liệu?",
+    "answers": [
+      "Có tài là đủ",
+      "Sống có đạo đức, trách nhiệm và hoàn thiện bản thân",
+      "Có quyền lực càng nhiều càng tốt",
+      "Chỉ cần thành công về vật chất"
     ],
     "correctAnswer": 1
   }

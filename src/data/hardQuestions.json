@@ -2,241 +2,481 @@
   {
     "id": 1,
     "difficulty": "hard",
-    "question": "Trong bốn bài học của Đại hội VI, bài học nào trực tiếp yêu cầu Đảng tránh bệnh chủ quan, duy ý chí?",
+    "question": "Vì sao Hồ Chí Minh xem đạo đức là “gốc” của người cách mạng?",
     "answers": [
-      "Lấy dân làm gốc.",
-      "Xuất phát từ thực tế, tôn trọng quy luật khách quan.",
-      "Kết hợp sức mạnh dân tộc với sức mạnh thời đại.",
-      "Chăm lo xây dựng Đảng."
+      "Vì đạo đức giúp người cách mạng phát triển đầy đủ năng lực cá nhân.",
+      "Vì đạo đức định hướng mục đích và cách sử dụng năng lực của người cách mạng.",
+      "Vì đạo đức tạo điều kiện để người cách mạng hoàn thành công việc hiệu quả hơn.",
+      "Vì đạo đức giúp người cách mạng được nhân dân tin tưởng trong quá trình công tác."
     ],
     "correctAnswer": 1
   },
   {
     "id": 2,
     "difficulty": "hard",
-    "question": "Điểm chung của bài học 'lấy dân làm gốc' (ĐH VI) và 'sự nghiệp cách mạng là của nhân dân' (Cương lĩnh 1991) là?",
+    "question": "Theo tư tưởng Hồ Chí Minh, mối quan hệ giữa tài và đức được hiểu đúng nhất là:",
     "answers": [
-      "Đều khẳng định vai trò quyết định của nhân dân.",
-      "Đều nói về đối ngoại.",
-      "Đều nói về công nghiệp hóa.",
-      "Đều nói về kinh tế tư nhân."
+      "Có tài sẽ tạo điều kiện để phẩm chất đạo đức được phát huy trong thực tiễn.",
+      "Có đức sẽ tạo điều kiện để năng lực cá nhân được phát triển theo thời gian.",
+      "Có tài và có đức là hai yêu cầu độc lập nhưng cùng cần thiết cho người cách mạng.",
+      "Có tài giúp hoàn thành công việc, còn có đức định hướng việc sử dụng tài năng."
     ],
-    "correctAnswer": 0
+    "correctAnswer": 3
   },
   {
     "id": 3,
     "difficulty": "hard",
-    "question": "Việc xóa bỏ cơ chế tập trung quan liêu bao cấp nhằm hướng tới mô hình nào?",
+    "question": "Nếu một người có năng lực nhưng thiếu đạo đức, theo nội dung tài liệu, nguy cơ đáng chú ý nhất là:",
     "answers": [
-      "Kinh tế kế hoạch hóa tuyệt đối.",
-      "Kinh tế hàng hóa nhiều thành phần vận hành theo cơ chế thị trường có sự quản lý của Nhà nước.",
-      "Kinh tế tư nhân hoàn toàn.",
-      "Kinh tế chỉ dựa vào hợp tác xã."
+      "Năng lực có thể bị sử dụng để phục vụ lợi ích cá nhân và gây hại cho tập thể.",
+      "Năng lực có thể không được phát huy đầy đủ và làm giảm hiệu quả công việc chung.",
+      "Năng lực có thể bị hạn chế bởi những yêu cầu đạo đức trong quá trình thực hiện.",
+      "Năng lực có thể không tạo được sự đồng thuận do thiếu sự hỗ trợ của tập thể."
     ],
-    "correctAnswer": 1
+    "correctAnswer": 0
   },
   {
     "id": 4,
     "difficulty": "hard",
-    "question": "Ý nghĩa lớn nhất của việc giao đất 15 năm theo Khoán 10 là?",
+    "question": "Nội dung nào thể hiện rõ nhất quan điểm “nói đi đôi với làm”?",
     "answers": [
-      "Tăng thuế nông nghiệp.",
-      "Trao quyền chủ động cho hộ nông dân, giải phóng sức sản xuất.",
-      "Xóa bỏ quyền sử dụng đất.",
-      "Giảm diện tích canh tác."
+      "Người có đạo đức cần trình bày đúng những điều mình đã nhận thức và cam kết.",
+      "Người có đạo đức cần giải thích rõ mục tiêu trước khi thực hiện công việc.",
+      "Điều đã nói, đã cam kết phải được thể hiện bằng hành động thực tế tương ứng.",
+      "Điều đã nói cần được tập thể kiểm chứng trước khi chuyển thành hành động thực tế."
     ],
-    "correctAnswer": 1
+    "correctAnswer": 2
   },
   {
     "id": 5,
     "difficulty": "hard",
-    "question": "Tình hình quốc tế đầu thập niên 1990 đặt ra yêu cầu gì đối với Đảng?",
+    "question": "Nội dung “Trung với nước, hiếu với dân” thể hiện sự chuyển biến nào trong quan niệm đạo đức?",
     "answers": [
-      "Từ bỏ đổi mới.",
-      "Kiên định mục tiêu XHCN nhưng linh hoạt về sách lược.",
-      "Đóng cửa nền kinh tế.",
-      "Ngừng quan hệ đối ngoại."
+      "Từ lòng trung thành với cá nhân sang trách nhiệm đối với đất nước và nhân dân.",
+      "Từ trách nhiệm với cộng đồng sang trách nhiệm chủ yếu đối với đất nước.",
+      "Từ quan hệ đạo đức trong gia đình sang quan hệ đạo đức chủ yếu trong xã hội.",
+      "Từ trách nhiệm cá nhân sang trách nhiệm tập thể trong hoạt động của người cách mạng."
     ],
-    "correctAnswer": 1
+    "correctAnswer": 0
   },
   {
     "id": 6,
     "difficulty": "hard",
-    "question": "Đại hội VII tổng kết hơn 60 năm lãnh đạo của Đảng thông qua văn kiện nào?",
+    "question": "Theo tài liệu, mối quan hệ giữa “trung với nước” và “hiếu với dân” được hiểu như thế nào?",
     "answers": [
-      "Hiến pháp 1992.",
-      "Cương lĩnh năm 1991.",
-      "Luật Đất đai.",
-      "Nghị quyết 10."
+      "Trung với nước là yêu cầu chính trị, còn hiếu với dân là yêu cầu đạo đức bổ sung.",
+      "Trung với nước và hiếu với dân là hai yêu cầu khác nhau nhưng có cùng mục tiêu.",
+      "Trung với nước được thực hiện trước, sau đó mới chuyển thành trách nhiệm với nhân dân.",
+      "Trung với nước và hiếu với dân gắn bó với nhau, yêu nước phải gắn với chăm lo đời sống nhân dân."
     ],
-    "correctAnswer": 1
+    "correctAnswer": 3
   },
   {
     "id": 7,
     "difficulty": "hard",
-    "question": "Trong năm bài học lớn của Cương lĩnh 1991, bài học nào nhấn mạnh yếu tố bảo đảm thắng lợi của cách mạng?",
+    "question": "Một cán bộ luôn nói rằng mình “yêu nước”, nhưng trong thực tế chỉ quan tâm đến lợi ích cá nhân. Theo tư tưởng trong tài liệu, hạn chế chính nằm ở đâu?",
     "answers": [
-      "Đoàn kết quốc tế.",
-      "Sự lãnh đạo đúng đắn của Đảng.",
-      "Độc lập dân tộc.",
-      "Đổi mới kinh tế."
+      "Chưa thể hiện đầy đủ yêu cầu “trung với nước” trong hoạt động thực tế.",
+      "Chưa gắn tình yêu đất nước với trách nhiệm và lợi ích của nhân dân.",
+      "Chưa chuyển tình cảm cá nhân thành những hành động có tính tập thể.",
+      "Chưa thể hiện được năng lực cá nhân trong việc phục vụ lợi ích chung."
     ],
     "correctAnswer": 1
   },
   {
     "id": 8,
     "difficulty": "hard",
-    "question": "Đặc trưng nào của CNXH gắn trực tiếp với mục tiêu phát triển con người?",
+    "question": "Nội dung nào phân biệt đúng nhất “kiệm” với “keo kiệt”?",
     "answers": [
-      "Nền kinh tế hiện đại.",
-      "Con người có cuộc sống ấm no, tự do, hạnh phúc và phát triển toàn diện.",
-      "Quan hệ hữu nghị quốc tế.",
-      "Các dân tộc bình đẳng."
+      "Kiệm là hạn chế chi tiêu cá nhân, còn keo kiệt là hạn chế chi tiêu tập thể.",
+      "Kiệm là tiết kiệm tiền bạc, còn keo kiệt là tiết kiệm cả thời gian và sức lao động.",
+      "Kiệm là sử dụng hợp lý thời gian, tiền của và sức lao động, không đồng nghĩa với keo kiệt.",
+      "Kiệm là sử dụng ít nguồn lực, còn keo kiệt là không sử dụng nguồn lực cho công việc chung."
     ],
-    "correctAnswer": 1
+    "correctAnswer": 2
   },
   {
     "id": 9,
     "difficulty": "hard",
-    "question": "Trong bảy phương hướng xây dựng CNXH, nhiệm vụ trung tâm là?",
+    "question": "Một người luôn tiết kiệm tiền nhưng thường trì hoãn công việc, thiếu chăm chỉ và làm việc kém hiệu quả. Theo hệ thống “cần, kiệm, liêm, chính, chí công vô tư”, vấn đề phù hợp nhất là:",
     "answers": [
-      "Đại đoàn kết dân tộc.",
-      "Công nghiệp hóa gắn phát triển nông nghiệp toàn diện.",
-      "Đối ngoại.",
-      "Tư tưởng văn hóa."
+      "Người đó có “kiệm” nhưng chưa thể hiện đầy đủ “liêm”.",
+      "Người đó có “liêm” nhưng chưa thể hiện đầy đủ “chính”.",
+      "Người đó có “chính” nhưng chưa thể hiện đầy đủ “chí công vô tư”.",
+      "Người đó có biểu hiện “kiệm” nhưng thiếu “cần”, nên hiệu quả chung bị hạn chế."
     ],
-    "correctAnswer": 1
+    "correctAnswer": 3
   },
   {
     "id": 10,
     "difficulty": "hard",
-    "question": "Điểm mới về tư tưởng tại Đại hội VII là?",
+    "question": "Nội dung nào thể hiện đúng nhất phẩm chất “liêm”?",
     "answers": [
-      "Lần đầu khẳng định tư tưởng Hồ Chí Minh là nền tảng cùng chủ nghĩa Mác - Lênin.",
-      "Lần đầu nêu đổi mới.",
-      "Lần đầu nói về thị trường.",
-      "Lần đầu nói về ASEAN."
+      "Không tham tiền bạc, địa vị và những lợi ích riêng cho bản thân.",
+      "Không sử dụng tài sản chung khi chưa được tập thể cho phép.",
+      "Không đặt lợi ích cá nhân cao hơn lợi ích của tập thể trong mọi trường hợp.",
+      "Không thiên vị người thân quen khi phân chia quyền lợi trong tập thể."
     ],
     "correctAnswer": 0
   },
   {
     "id": 11,
     "difficulty": "hard",
-    "question": "Vì sao việc rút quân tình nguyện khỏi Campuchia góp phần thực hiện đường lối đối ngoại mới?",
+    "question": "Điểm khác biệt nổi bật giữa “liêm” và “chí công vô tư” là:",
     "answers": [
-      "Tạo điều kiện bình thường hóa và mở rộng quan hệ quốc tế.",
-      "Để tăng viện trợ.",
-      "Để gia nhập WTO.",
-      "Để giảm GDP."
+      "“Liêm” nhấn mạnh sự trong sạch của cá nhân, “chí công vô tư” nhấn mạnh đặt lợi ích chung lên trên lợi ích riêng.",
+      "“Liêm” nhấn mạnh trách nhiệm với tập thể, “chí công vô tư” nhấn mạnh sự trong sạch của cá nhân.",
+      "“Liêm” nhấn mạnh tính tiết kiệm, “chí công vô tư” nhấn mạnh tính công bằng trong sử dụng tài sản.",
+      "“Liêm” nhấn mạnh tính trung thực, “chí công vô tư” nhấn mạnh khả năng hoàn thành công việc chung."
     ],
     "correctAnswer": 0
   },
   {
     "id": 12,
     "difficulty": "hard",
-    "question": "Sự kiện nào diễn ra trước?",
+    "question": "Một người không tham ô tài sản nhưng luôn ưu tiên người thân trong việc phân chia lợi ích chung. Hành vi này phù hợp nhất với nhận xét nào?",
     "answers": [
-      "Gia nhập ASEAN.",
-      "Bình thường hóa quan hệ Việt Nam - Trung Quốc.",
-      "Thiết lập quan hệ với Hoa Kỳ.",
-      "Phê chuẩn Công ước Luật biển."
+      "Vẫn bảo đảm “liêm” nhưng chưa thể hiện đầy đủ “cần”.",
+      "Có thể chưa đáp ứng yêu cầu “chí công vô tư” do còn biểu hiện thiên vị lợi ích riêng.",
+      "Có thể chưa đáp ứng yêu cầu “chính” do chưa bảo đảm hiệu quả công việc.",
+      "Vẫn bảo đảm “chí công vô tư” nếu người đó không trực tiếp nhận lợi ích."
     ],
     "correctAnswer": 1
   },
   {
     "id": 13,
     "difficulty": "hard",
-    "question": "Mục tiêu tổng quát giai đoạn 1991-1995 phản ánh điều gì?",
+    "question": "Vì sao năm phẩm chất “cần, kiệm, liêm, chính, chí công vô tư” phải được thực hiện đồng thời?",
     "answers": [
-      "Chỉ phát triển kinh tế.",
-      "Ổn định chính trị gắn với phát triển kinh tế - xã hội và vượt qua khủng hoảng.",
-      "Chỉ hội nhập.",
-      "Chỉ cải cách hành chính."
+      "Vì mỗi phẩm chất đảm nhiệm một mặt khác nhau nhưng cùng tạo thành hệ thống đạo đức thống nhất.",
+      "Vì mỗi phẩm chất có thể thay thế cho một phẩm chất khác khi điều kiện thực tế thay đổi.",
+      "Vì mỗi phẩm chất chủ yếu áp dụng cho một nhóm đối tượng khác nhau trong xã hội.",
+      "Vì mỗi phẩm chất được hình thành riêng biệt nhưng cùng hướng đến hiệu quả công việc."
     ],
-    "correctAnswer": 1
+    "correctAnswer": 0
   },
   {
     "id": 14,
     "difficulty": "hard",
-    "question": "Bài học 'kết hợp sức mạnh dân tộc với sức mạnh thời đại' được tiếp tục thể hiện rõ nhất qua?",
+    "question": "Một cán bộ sử dụng tài sản công cho mục đích cá nhân. Theo nội dung tài liệu, hành vi này vi phạm rõ nhất:",
     "answers": [
-      "Mở rộng quan hệ đối ngoại.",
-      "Xóa tem phiếu.",
-      "Khoán 10.",
-      "Giảm lạm phát."
+      "“Cần” và “chính”, vì làm giảm hiệu quả trong quá trình sử dụng tài sản.",
+      "“Kiệm” và “chính”, vì sử dụng nguồn lực chung không theo kế hoạch.",
+      "“Cần” và “chí công vô tư”, vì làm giảm hiệu quả của hoạt động tập thể.",
+      "“Liêm” và “chí công vô tư”, vì liên quan đến lợi ích cá nhân và tài sản chung."
     ],
-    "correctAnswer": 0
+    "correctAnswer": 3
   },
   {
     "id": 15,
     "difficulty": "hard",
-    "question": "Đâu là mối liên hệ đúng giữa Đại hội VI và Đại hội VII?",
+    "question": "Theo tư tưởng Hồ Chí Minh trong tài liệu, yêu thương con người không nên chỉ dừng lại ở:",
     "answers": [
-      "VI đề ra đổi mới, VII cụ thể hóa bằng Cương lĩnh 1991.",
-      "VII diễn ra trước VI.",
-      "Hai đại hội không liên quan.",
-      "VII hủy bỏ đường lối VI."
+      "Sự đồng cảm với những người đang gặp khó khăn trong cuộc sống.",
+      "Sự quan tâm đến những người có hoàn cảnh yếu thế trong xã hội.",
+      "Tình cảm mà cần được chuyển hóa thành hành động tôn trọng, giúp đỡ và tạo điều kiện.",
+      "Sự chia sẻ với những người đang gặp khó khăn trong cộng đồng."
     ],
-    "correctAnswer": 0
+    "correctAnswer": 2
   },
   {
     "id": 16,
     "difficulty": "hard",
-    "question": "Việc giảm lạm phát và chuyển sang xuất khẩu lương thực phản ánh điều gì?",
+    "question": "Một người thường xuyên nói rằng mình “thương người”, nhưng khi gặp người khó khăn lại không có hành động hỗ trợ phù hợp. Theo tài liệu, điểm thiếu hụt chủ yếu là:",
     "answers": [
-      "Hiệu quả bước đầu của đường lối đổi mới kinh tế.",
-      "Giảm vai trò Nhà nước.",
-      "Tăng bao cấp.",
-      "Đóng cửa nền kinh tế."
+      "Chưa mở rộng tình yêu thương từ gia đình ra cộng đồng.",
+      "Chưa chuyển tình cảm yêu thương thành hành động cụ thể trong thực tế.",
+      "Chưa xác định đúng đối tượng cần được yêu thương trong xã hội.",
+      "Chưa thể hiện được tình yêu thương thông qua hoạt động tập thể."
     ],
-    "correctAnswer": 0
+    "correctAnswer": 1
   },
   {
     "id": 17,
     "difficulty": "hard",
-    "question": "Theo tài liệu, phương châm 'thêm bạn, bớt thù' hướng tới mục tiêu trực tiếp nào?",
+    "question": "Nội dung nào phản ánh đúng phạm vi của tư tưởng “thương yêu con người”?",
     "answers": [
-      "Giữ vững hòa bình để xây dựng và bảo vệ Tổ quốc.",
-      "Tăng chi tiêu quân sự.",
-      "Giảm quan hệ ngoại giao.",
-      "Chỉ hợp tác với ASEAN."
+      "Chủ yếu dành cho người thân, sau đó mở rộng đến những người có cùng hoàn cảnh.",
+      "Chủ yếu dành cho những người có đóng góp tích cực và cần được giúp đỡ.",
+      "Chủ yếu dành cho những người cùng cộng đồng, cùng dân tộc và cùng lợi ích.",
+      "Không giới hạn trong gia đình mà hướng đến những người khó khăn, bị áp bức và cần được giúp đỡ."
     ],
-    "correctAnswer": 0
+    "correctAnswer": 3
   },
   {
     "id": 18,
     "difficulty": "hard",
-    "question": "Điểm giống nhau giữa bốn bài học Đại hội VI và năm bài học Cương lĩnh 1991 là?",
+    "question": "“Tinh thần quốc tế trong sáng” theo tài liệu được thể hiện phù hợp nhất qua:",
     "answers": [
-      "Đều nhấn mạnh vai trò của nhân dân và sự lãnh đạo của Đảng.",
-      "Đều nói về WTO.",
-      "Đều chỉ tập trung kinh tế.",
-      "Đều chỉ bàn quốc phòng."
+      "Độc lập, tự chủ nhưng đồng thời tôn trọng, đoàn kết và hợp tác với các dân tộc khác.",
+      "Ưu tiên hợp tác quốc tế nhưng hạn chế những vấn đề có thể ảnh hưởng đến lợi ích quốc gia.",
+      "Đặt quan hệ quốc tế lên trên lợi ích dân tộc để tăng cường hòa bình và hợp tác.",
+      "Bảo vệ lợi ích dân tộc trước hết, sau đó mới xem xét đến quan hệ với các quốc gia khác."
     ],
     "correctAnswer": 0
   },
   {
     "id": 19,
     "difficulty": "hard",
-    "question": "Vì sao Đại hội VII tiếp tục khẳng định đổi mới toàn diện nhưng có bước đi phù hợp?",
+    "question": "Theo tài liệu, vì sao chủ nghĩa yêu nước cần kết hợp với tinh thần quốc tế?",
     "answers": [
-      "Để bảo đảm đổi mới hiệu quả và giữ vững định hướng XHCN.",
-      "Để trì hoãn đổi mới.",
-      "Để quay lại bao cấp.",
-      "Để giảm hội nhập."
+      "Vì hợp tác quốc tế giúp các quốc gia giảm bớt sự khác biệt về lợi ích trong thực tế.",
+      "Vì tinh thần quốc tế tạo điều kiện để lợi ích dân tộc được mở rộng trong quan hệ quốc tế.",
+      "Vì vừa bảo vệ lợi ích dân tộc, vừa hợp tác với các dân tộc khác vì hòa bình và tiến bộ xã hội.",
+      "Vì các quốc gia chỉ có thể bảo vệ độc lập khi dựa vào sự hỗ trợ của cộng đồng quốc tế."
     ],
-    "correctAnswer": 0
+    "correctAnswer": 2
   },
   {
     "id": 20,
     "difficulty": "hard",
-    "question": "Nhận định nào phản ánh đầy đủ nhất nội dung tài liệu?",
+    "question": "Nội dung nào trái với “tinh thần quốc tế trong sáng”?",
     "answers": [
-      "Đổi mới là quá trình toàn diện từ kinh tế, chính trị, đối ngoại nhưng luôn kiên định mục tiêu XHCN.",
-      "Đổi mới chỉ là cải cách kinh tế.",
-      "Đổi mới chỉ là mở cửa đối ngoại.",
-      "Đổi mới là thay đổi mục tiêu CNXH."
+      "Tăng cường hợp tác giữa các dân tộc trên cơ sở tôn trọng lẫn nhau.",
+      "Đặt lợi ích dân tộc lên trên mọi nguyên tắc hợp tác với các dân tộc khác.",
+      "Kết hợp bảo vệ lợi ích quốc gia với tinh thần hợp tác vì hòa bình.",
+      "Tôn trọng những dân tộc đang đấu tranh cho hòa bình, độc lập và tiến bộ xã hội."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 21,
+    "difficulty": "hard",
+    "question": "“Nêu gương về đạo đức” có ý nghĩa gì trong việc giáo dục đạo đức?",
+    "answers": [
+      "Hành động thực tế của người lãnh đạo có sức thuyết phục và tác động trực tiếp đến người khác.",
+      "Người lãnh đạo cần thể hiện đạo đức trước khi yêu cầu người khác thực hiện theo.",
+      "Người lãnh đạo cần chứng minh đạo đức bằng kết quả công việc cụ thể của mình.",
+      "Người lãnh đạo cần ưu tiên việc làm gương trong những tình huống có ảnh hưởng đến tập thể."
     ],
     "correctAnswer": 0
+  },
+  {
+    "id": 22,
+    "difficulty": "hard",
+    "question": "Một người thường xuyên tuyên truyền về tinh thần trách nhiệm nhưng bản thân lại bỏ bê nhiệm vụ. Theo tư tưởng “nói đi đôi với làm”, vấn đề nằm ở:",
+    "answers": [
+      "Nội dung tuyên truyền chưa phù hợp với yêu cầu của tập thể.",
+      "Cách thức tuyên truyền chưa tạo được sự đồng thuận của người nghe.",
+      "Việc thực hiện nhiệm vụ chưa tạo được kết quả tương xứng với lời nói.",
+      "Lời nói và hành động không thống nhất, làm giảm giá trị nêu gương về đạo đức."
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 23,
+    "difficulty": "hard",
+    "question": "Vì sao người lãnh đạo càng cần chú trọng “nêu gương về đạo đức”?",
+    "answers": [
+      "Vì người lãnh đạo có nhiều cơ hội hơn để truyền đạt các chuẩn mực đạo đức.",
+      "Vì hành vi của người lãnh đạo có ảnh hưởng trực tiếp đến nhận thức và cách hành động của người khác.",
+      "Vì người lãnh đạo là người chịu trách nhiệm chính trong việc duy trì đạo đức của tập thể.",
+      "Vì người lãnh đạo có vai trò quyết định trong việc xây dựng các quy định đạo đức của tổ chức."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 24,
+    "difficulty": "hard",
+    "question": "“Xây đi đôi với chống” được hiểu đúng nhất là:",
+    "answers": [
+      "Xây dựng phẩm chất tốt trước, sau đó mới loại bỏ những hành vi chưa phù hợp.",
+      "Chống những biểu hiện tiêu cực trước, sau đó tạo điều kiện xây dựng phẩm chất tích cực.",
+      "Đồng thời xây dựng phẩm chất tốt và đấu tranh loại bỏ những biểu hiện xấu, trong đó “xây” là chính.",
+      "Xây dựng phẩm chất đạo đức cho cá nhân đồng thời kiểm soát các biểu hiện tiêu cực của tập thể."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 25,
+    "difficulty": "hard",
+    "question": "Vì sao tài liệu xác định “xây là chính” trong nguyên tắc “xây đi đôi với chống”?",
+    "answers": [
+      "Vì xây dựng phẩm chất tốt tạo nền tảng để hạn chế và loại bỏ những biểu hiện tiêu cực.",
+      "Vì xây dựng đạo đức có phạm vi rộng hơn so với việc đấu tranh chống các hành vi sai trái.",
+      "Vì xây dựng đạo đức cần được thực hiện trước khi áp dụng các biện pháp xử lý tiêu cực.",
+      "Vì xây dựng đạo đức chủ yếu hướng đến thay đổi nhận thức của cá nhân trong tập thể."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 26,
+    "difficulty": "hard",
+    "question": "Nếu một trường học chỉ xử phạt sinh viên gian lận nhưng không giáo dục về tính trung thực, hạn chế chính của cách làm này là:",
+    "answers": [
+      "Chưa tăng đủ mức độ xử lý đối với những hành vi gian lận trong học tập.",
+      "Chưa kiểm soát đầy đủ những nguyên nhân dẫn đến hành vi gian lận của sinh viên.",
+      "Chưa tạo ra cơ chế giám sát phù hợp để hạn chế hành vi gian lận trong thực tế.",
+      "Mới chú trọng “chống” mà chưa đồng thời thực hiện “xây” phẩm chất trung thực."
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 27,
+    "difficulty": "hard",
+    "question": "Theo nguyên tắc “xây đi đôi với chống”, biện pháp nào phù hợp nhất để hạn chế gian lận trong học tập?",
+    "answers": [
+      "Tăng hình thức xử phạt và tăng cường kiểm tra trong các kỳ thi.",
+      "Tăng cường giáo dục đạo đức đồng thời áp dụng biện pháp xử lý hành vi gian lận.",
+      "Tập trung xây dựng ý thức trung thực và giảm sự cần thiết của các biện pháp xử lý.",
+      "Tăng cường giám sát và xử phạt nhằm tạo môi trường học tập nghiêm túc hơn."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 28,
+    "difficulty": "hard",
+    "question": "“Tu dưỡng đạo đức suốt đời” hàm ý điều gì?",
+    "answers": [
+      "Đạo đức cần được củng cố thường xuyên nhưng chủ yếu trong những giai đoạn quan trọng của cuộc đời.",
+      "Đạo đức cần được rèn luyện liên tục, tự sửa chữa hạn chế và phát huy những phẩm chất tốt.",
+      "Đạo đức cần được hình thành vững chắc từ tuổi trẻ để hạn chế những thay đổi về sau.",
+      "Đạo đức cần được kiểm tra thường xuyên để bảo đảm cá nhân không mắc phải những sai lầm nghiêm trọng."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 29,
+    "difficulty": "hard",
+    "question": "Vì sao theo tư tưởng Hồ Chí Minh, đạo đức không thể được xem là thứ “có một lần rồi giữ mãi”?",
+    "answers": [
+      "Vì hoàn cảnh xã hội thay đổi khiến những chuẩn mực đạo đức cũng cần được điều chỉnh theo.",
+      "Vì năng lực của con người luôn thay đổi nên đạo đức cũng cần được hoàn thiện tương ứng.",
+      "Vì con người luôn có nguy cơ phát sinh hạn chế, nên cần thường xuyên tự rèn luyện và sửa chữa.",
+      "Vì quá trình công tác lâu dài luôn tạo ra những yêu cầu đạo đức mới đối với mỗi cá nhân."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 30,
+    "difficulty": "hard",
+    "question": "Theo tư tưởng trong tài liệu, nếu một người ngừng tu dưỡng đạo đức trong thời gian dài, nguy cơ nào đáng chú ý?",
+    "answers": [
+      "Khả năng hoàn thành nhiệm vụ có thể giảm do thiếu sự phát triển về phẩm chất cá nhân.",
+      "Khả năng thích nghi với tập thể có thể giảm do không thường xuyên điều chỉnh hành vi.",
+      "Khả năng phát huy năng lực có thể giảm do không duy trì được tinh thần trách nhiệm.",
+      "Có thể phát sinh chủ nghĩa cá nhân, ích kỷ và sự suy thoái về phẩm chất đạo đức."
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 31,
+    "difficulty": "hard",
+    "question": "Câu nói “Đạo đức cách mạng không phải trên trời sa xuống” nhấn mạnh chủ yếu điều gì?",
+    "answers": [
+      "Đạo đức cách mạng hình thành từ môi trường xã hội và giáo dục của mỗi người.",
+      "Đạo đức cách mạng được hình thành thông qua đấu tranh, rèn luyện bền bỉ hằng ngày.",
+      "Đạo đức cách mạng được hình thành từ nhận thức đúng và được củng cố qua hoạt động thực tế.",
+      "Đạo đức cách mạng được hình thành từ sự kết hợp giữa năng lực cá nhân và trách nhiệm tập thể."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 32,
+    "difficulty": "hard",
+    "question": "Một sinh viên nhận ra mình thường thiếu trách nhiệm khi làm việc nhóm và chủ động sửa đổi cách làm việc. Hành động này thể hiện rõ nhất:",
+    "answers": [
+      "Tinh thần “nói đi đôi với làm” trong hoạt động tập thể.",
+      "Yêu cầu “xây đi đôi với chống” trong quá trình xây dựng tập thể.",
+      "Tinh thần tự tu dưỡng, tự sửa chữa hạn chế trong quá trình rèn luyện đạo đức.",
+      "Yêu cầu “chí công vô tư” trong việc đặt lợi ích tập thể lên trên cá nhân."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 33,
+    "difficulty": "hard",
+    "question": "Trong quan niệm về đạo đức, yếu tố nào làm cho một phẩm chất đạo đức thực sự có giá trị theo tài liệu?",
+    "answers": [
+      "Khả năng trình bày rõ ràng phẩm chất đó trong giao tiếp với người khác.",
+      "Khả năng duy trì phẩm chất đó trong nhận thức và thái độ cá nhân.",
+      "Khả năng được tập thể công nhận phẩm chất đó trong quá trình hoạt động.",
+      "Khả năng thể hiện phẩm chất đó bằng hành động cụ thể trong thực tế."
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 34,
+    "difficulty": "hard",
+    "question": "Một sinh viên rất giỏi chuyên môn nhưng thường gian dối và đặt lợi ích cá nhân lên trên tập thể. Nếu vận dụng quan điểm “đức là gốc”, đánh giá nào phù hợp nhất?",
+    "answers": [
+      "Năng lực chuyên môn chưa đủ để bảo đảm giá trị của một người nếu thiếu nền tảng đạo đức.",
+      "Năng lực chuyên môn vẫn có giá trị nhưng cần được điều chỉnh thông qua yêu cầu của tập thể.",
+      "Năng lực chuyên môn cần được phát huy trước, sau đó mới từng bước hoàn thiện phẩm chất đạo đức.",
+      "Năng lực chuyên môn và đạo đức là hai mặt tương đối độc lập nên cần đánh giá riêng biệt."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 35,
+    "difficulty": "hard",
+    "question": "Một cán bộ vừa chăm chỉ, vừa tiết kiệm nhưng thường ưu tiên lợi ích của mình khi giải quyết công việc chung. Điều này cho thấy:",
+    "answers": [
+      "Người đó đã có “cần” và “kiệm” nhưng cần hoàn thiện thêm “liêm”.",
+      "Người đó đã có “cần” và “kiệm” nhưng cần hoàn thiện thêm “chính”.",
+      "Người đó có một số phẩm chất tích cực nhưng chưa đáp ứng đầy đủ yêu cầu “chí công vô tư”.",
+      "Người đó có nền tảng đạo đức tốt nhưng cần điều chỉnh thêm cách thực hiện công việc."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 36,
+    "difficulty": "hard",
+    "question": "Một người tích cực tham gia cứu trợ đồng bào gặp thiên tai, không chỉ kêu gọi mà trực tiếp hỗ trợ người dân. Hành động này phù hợp nhất với sự kết hợp nào?",
+    "answers": [
+      "“Trung với nước” gắn với “cần, kiệm, liêm, chính”.",
+      "“Thương yêu con người” gắn với yêu cầu biến tình cảm thành hành động cụ thể.",
+      "“Chí công vô tư” gắn với “tinh thần quốc tế trong sáng”.",
+      "“Nói đi đôi với làm” gắn với “tu dưỡng đạo đức suốt đời”."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 37,
+    "difficulty": "hard",
+    "question": "Một người cho rằng chỉ cần có tình cảm yêu thương con người là đã đáp ứng đầy đủ yêu cầu đạo đức. Theo tài liệu, nhận định này chưa đầy đủ vì:",
+    "answers": [
+      "Tình cảm yêu thương cần gắn với trách nhiệm đối với quốc gia và dân tộc.",
+      "Tình cảm yêu thương cần được thể hiện đồng thời qua năng lực và hiệu quả công việc.",
+      "Tình cảm yêu thương cần được đặt trong mối quan hệ với các chuẩn mực “cần, kiệm, liêm, chính”.",
+      "Tình cảm yêu thương cần được chuyển thành hành động cụ thể nhằm tôn trọng, giúp đỡ và tạo điều kiện cho con người."
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 38,
+    "difficulty": "hard",
+    "question": "Nếu vận dụng quan điểm “một tấm gương sống còn có giá trị hơn một trăm bài diễn văn tuyên truyền” vào giáo dục sinh viên, cách làm phù hợp nhất là:",
+    "answers": [
+      "Giáo viên và cán bộ lớp trực tiếp thực hiện những hành vi trách nhiệm, trung thực để sinh viên noi theo.",
+      "Tăng cường các buổi tuyên truyền để sinh viên hiểu rõ hơn những chuẩn mực đạo đức cần thực hiện.",
+      "Kết hợp tuyên truyền với việc xây dựng các quy định để sinh viên thực hiện đúng chuẩn mực.",
+      "Khuyến khích sinh viên tự nhận xét đạo đức của mình thông qua các hoạt động học tập và tập thể."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 39,
+    "difficulty": "hard",
+    "question": "Từ quan điểm “ở đời và làm người phải như thế nào?”, cách hiểu phù hợp nhất với tư tưởng được trình bày trong tài liệu là:",
+    "answers": [
+      "Sống có năng lực, có trách nhiệm với công việc và biết điều chỉnh bản thân theo hoàn cảnh.",
+      "Sống có đạo đức, có trách nhiệm, biết hành động đúng và thường xuyên tự rèn luyện bản thân.",
+      "Sống có lý tưởng, có năng lực thực hiện nhiệm vụ và đặt lợi ích tập thể lên trên lợi ích cá nhân.",
+      "Sống có trách nhiệm với cộng đồng, biết yêu thương con người và tích cực tham gia hoạt động xã hội."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 40,
+    "difficulty": "hard",
+    "question": "Nếu phải khái quát tư tưởng Hồ Chí Minh về đạo đức trong tài liệu bằng một chuỗi logic, phương án nào phù hợp nhất?",
+    "answers": [
+      "Có đạo đức làm nền tảng → có năng lực → hoàn thành nhiệm vụ → được tập thể công nhận.",
+      "Có nhận thức → thường xuyên xây và chống → Có đạo đức làm nền tảng → thể hiện bằng hành động.",
+      "Có đạo đức làm nền tảng → thể hiện bằng hành động → thường xuyên xây và chống → liên tục tu dưỡng.",
+      "Có trách nhiệm → thể hiện bằng hành động → thường xuyên xây và chống → hoàn thiện phẩm chất trong quá trình công tác."
+    ],
+    "correctAnswer": 2
   }
 ]
